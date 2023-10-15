@@ -31,3 +31,7 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 ## Forschungsstand
 
 ## Untersucchungsansatz
+
+## Erwartete Ergebnisse
+
+## Zeitplan
