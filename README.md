@@ -57,4 +57,28 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 
 ## Erwartete Ergebnisse
 
-## Zeitplan
+## Projektplan
+
+### 1. Audit
+
+- Zusammenfassung der Ergebnisse für die Problemraumanalyse
+- Quellenaggregation & Sichtung
+- Zielsetzung definieren
+- Ursache-Wirkungdiagram
+- Domänenmodell
+- Alleinstellungsmerkmale
+- erste Betrachtung der Projektrisiken
+- Exposé fertigstellen
+- Projektplan für 2. Audit fertigstellen
+
+### 2. Audit
+
+TBD
+
+### 3. Audit
+
+TBD
+
+### 4. Audit
+
+TBD
