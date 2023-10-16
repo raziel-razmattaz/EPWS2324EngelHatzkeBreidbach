@@ -12,6 +12,12 @@ Forscher haben intensiv die kognitiven und neurologischen Unterschiede untersuch
 
 Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft sozial ausgeschlossen. Das erschwert es ihnen, Freundschaften zu schließen und Arbeit zu finden. Während einige Programme Autisten anleiten, sich anzupassen, gibt es weniger, die Nicht-Autisten beibringen, autismusfreundlicher zu sein. In dieser Studie wurde ein kurzes Video mit Unterstützung von Autisten erstellt, um Menschen über Autismus aufzuklären. Es zeigte sich, dass Nicht-Autisten, die dieses Video sahen, bessere Kenntnisse und freundlichere Einstellungen gegenüber Autismus hatten. Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft sozial ausgeschlossen. Das erschwert es ihnen, Freundschaften zu schließen und Arbeit zu finden. Während einige Programme Autisten anleiten, sich anzupassen, gibt es weniger, die Nicht-Autisten beibringen, autismusfreundlicher zu sein. In dieser Studie wurde ein kurzes Video mit Unterstützung von Autisten erstellt, um Menschen über Autismus aufzuklären. Es zeigte sich, dass Nicht-Autisten, die dieses Video sahen, bessere Kenntnisse und freundlichere Einstellungen gegenüber Autismus hatten
 
+### Vorläufiges Ursache-Wirkungs-Diagramm
+
+![Vorläufiges Ursache-Wirkungs-Diagramm](https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach/assets/116623272/fdd04687-a7e6-4194-892d-5eec860b9854)
+
+
+
 ## Themen 
 - Künstliche Intelligenzen/Chatbots
 - Trainings für soziale Interaktionen im Kontext Autismus
