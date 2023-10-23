@@ -25,9 +25,9 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 - Gamification
 
 ## Leitfragen
-- Können Chatbots Autismus spezifische Konversationen verstehen?
-- Können Chatbots Übungen für soziale Interaktionen für Autisten erstellen?
-- Können Chatbots die sozialen Interaktionen von Autisten positiv beeinflussen?
+- Können Chatbots Autismus spezifische Konversationen verstehen und generieren?
+- Können Chatbots Übungen für soziale Interaktionen zwischen Nicht-Autisten und Autisten erstellen?
+- Können Chatbots die sozialen Interaktionen von und mit Autisten positiv beeinflussen?
 
 ## Zielsetzung
 
