@@ -31,8 +31,7 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 
 ## Zielsetzung
 
-- Hilfe für soziale Interaktionen für Autisten und Nicht-Autisten.
-- These: ...
+Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten von Nicht-Autisten gegenüber Autisten fördert.
 
 ## Forschungsstand
 
