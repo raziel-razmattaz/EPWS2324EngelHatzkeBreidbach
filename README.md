@@ -45,3 +45,4 @@ TBD
 
 - [Forschungsstand](Artefacts/Quellen.md)
 - [Projektplan](Artefacts/Projektplan.md)
+- [Zielhierachie](Artefacts/Zielhierachie.md)
