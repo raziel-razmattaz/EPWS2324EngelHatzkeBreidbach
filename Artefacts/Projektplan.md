@@ -1,0 +1,35 @@
+## Projektplan
+
+Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wird aufgeführt, wer an der relevanten Teilaufgabe gearbeitet hat.
+
+### 1. Audit
+
+- Zusammenfassung der Ergebnisse für die Problemraumanalyse (Timo)
+- Domänenmodell
+- Ursache-Wirkungdiagram (Timo)
+- Quellenaggregation & Sichtung (Raziel & Timo)
+- Zielsetzung definieren (Raziel & Ines)
+- Alleinstellungsmerkmale
+- Zielhierarchie (Raziel)
+- erste Betrachtung der Projektrisiken
+- Exposé fertigstellen (Alle)
+- Präsentation für den 1. Audit fertigstellen
+- Projektplan für 2. Audit fertigstellen (Raziel)
+
+### 2. Audit
+
+- Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...)
+- Grobes Architekturmodell
+- Festlegung von Projektarchitektur und Technologien
+- Erste PoCs um Kernaspekte des Projekts zu erproben
+- Evaluation der PoCs
+- Präsentation für den 2. Audit fertigstellen
+- Projektplan für 3. Audit fertigstellen
+
+### 3. Audit
+
+TBD
+
+### 4. Audit
+
+TBD
