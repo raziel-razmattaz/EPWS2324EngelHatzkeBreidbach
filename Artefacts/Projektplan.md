@@ -13,6 +13,7 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Zielhierarchie (Raziel)
 - erste Betrachtung der Projektrisiken
 - Exposé fertigstellen (Alle)
+- Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
 - Präsentation für den 1. Audit fertigstellen
 - Projektplan für 2. Audit fertigstellen (Raziel)
 
@@ -21,7 +22,7 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...)
 - Grobes Architekturmodell
 - Festlegung von Projektarchitektur und Technologien
-- Erste PoCs um Kernaspekte des Projekts zu erproben
+- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen
 - Evaluation der PoCs
 - Präsentation für den 2. Audit fertigstellen
 - Projektplan für 3. Audit fertigstellen
