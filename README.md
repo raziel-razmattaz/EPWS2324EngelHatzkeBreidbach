@@ -50,5 +50,8 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 ## Weitere Artefakte
 
 - [Forschungsstand](Artefacts/Quellen.md)
+- [Stakeholderanalyse](Artefacts/Stakeholder.md)
+- [Erfordernisse](Artefacts/Erfordernisse.md)
+- [Erste Betrachtung der Projektrisiken](Artefacts/Projektrisiken.md)
 - [Projektplan](Artefacts/Projektplan.md)
 - [Zielhierachie](Artefacts/Zielhierachie.md)

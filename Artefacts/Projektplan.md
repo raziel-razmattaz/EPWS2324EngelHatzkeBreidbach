@@ -6,22 +6,25 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 
 - Zusammenfassung der Ergebnisse für die Problemraumanalyse (Timo)
 - Domänenmodell (Timo)
+- Stakeholderanalyse
+- Erfordernisse zusammenstellen (Raziel)
 - Ursache-Wirkungdiagram (Timo)
 - Quellenaggregation & Sichtung (Raziel & Timo)
 - Zielsetzung definieren (Raziel & Ines)
 - Alleinstellungsmerkmale (Ines)
 - Erwartete Ergebnisse (Raziel)
 - Zielhierarchie (Raziel)
-- erste Betrachtung der Projektrisiken (Ines)
+- erste Betrachtung der Projektrisiken (Ines & Raziel)
 - Exposé fertigstellen (Alle)
-- Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
-- Präsentation für den 1. Audit fertigstellen
+- Spezifikation des ersten technischen/architekturellen Proof-of-Concepts (Ines)
+- Präsentation für den 1. Audit fertigstellen (Alle)
 - Projektplan für 2. Audit fertigstellen (Raziel)
 
 ### 2. Audit
 
 - Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...)
 - Grobes Architekturmodell
+- Anforderungsanalyse
 - Festlegung von Projektarchitektur und Technologien
 - Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen
 - Evaluation der PoCs
