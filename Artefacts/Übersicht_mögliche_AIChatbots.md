@@ -6,7 +6,7 @@ ChatGPT (reiner Chatbot) vs GPT-3(-turbo) o. GPT-3.5 (Text für vers. Applikatio
 -kostenpflichtig (variiert je nach Version, 
 ### HuggingChat:
 LLM
-+ Open Source, kein SignUp oder API Key, 
+Open Source, kein SignUp oder API Key, 
 -evtl. nur über Python, JS, ältere Grundtechnologie
 ### Zapier AI Chatbot:
 ChatGPT-3.5 Technologie
