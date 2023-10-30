@@ -35,7 +35,8 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 
 ## Alleinstellungsmerkmal
 
-TBD
+- Kommunikationstraining im Bereich ASD beinahe vollständig zum Training von Menschen mit ASD
+- Dieses System für das Training von Menschen ohne ASD für eine verbesserte Interaktion mit Menschen mit ASD
 
 ## Erwartete Ergebnisse
 
