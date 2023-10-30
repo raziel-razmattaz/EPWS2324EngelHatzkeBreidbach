@@ -12,7 +12,8 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 
 ### Domänenmodell
 
-<img src="Domänenmodell.jpg" alt="Domänenmodell" width="900"/>
+![Domänenmodell](https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach/assets/116623272/b9f49c5b-32cb-4acc-b408-b4d6edffd358)
+
 
 ### Ursache-Wirkung-Diagramm
 
