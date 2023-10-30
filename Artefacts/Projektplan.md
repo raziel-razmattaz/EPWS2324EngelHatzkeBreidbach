@@ -5,13 +5,14 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 ### 1. Audit
 
 - Zusammenfassung der Ergebnisse für die Problemraumanalyse (Timo)
-- Domänenmodell
+- Domänenmodell (Timo)
 - Ursache-Wirkungdiagram (Timo)
 - Quellenaggregation & Sichtung (Raziel & Timo)
 - Zielsetzung definieren (Raziel & Ines)
-- Alleinstellungsmerkmale
+- Alleinstellungsmerkmale (Ines)
+- Erwartete Ergebnisse (Raziel)
 - Zielhierarchie (Raziel)
-- erste Betrachtung der Projektrisiken
+- erste Betrachtung der Projektrisiken (Ines)
 - Exposé fertigstellen (Alle)
 - Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
 - Präsentation für den 1. Audit fertigstellen
