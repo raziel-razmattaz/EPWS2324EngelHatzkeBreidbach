@@ -40,7 +40,11 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 
 ## Erwartete Ergebnisse
 
-TBD
+- zugängliches Tool, welches mittels Unterstützung von Language Learning Modells Toleranz und Aufklärungstraining für Nicht-Autisten gegenüber Autisten bietet
+- Förderung des Verständniss der Nutzergruppe gegenüber Menschen die aufgrund von ASD als "anders" betrachtet werden
+- Nutzung ermöglicht stärkere soziale Bindungen und motiviert Nicht-Autisten auf Autisten zuzugehen und auf diese einzugehen
+- Verringerung unbewusster Vorurteile und Abneigungen gegen Autisten
+- Förderung von alternativen Kommunikationswegen für die Kommunikation mit Autisten
 
 ## Weitere Artefakte
 
