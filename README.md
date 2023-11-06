@@ -1,4 +1,4 @@
-# Exposé - IDEA title
+# Exposé
 
 ## Problemraumanalyse
 
@@ -38,6 +38,14 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 
 - Kommunikationstraining im Bereich ASD beinahe vollständig zum Training von Menschen mit ASD
 - Dieses System für das Training von Menschen ohne ASD für eine verbesserte Interaktion mit Menschen mit ASD
+
+## Nutzungsmotivation
+
+- Schulungsangebote für Unternehmen, Bildungseinrichtungen und Regierungseinrichtungen
+- Toleranztraining für Customer Service Reps (Umgang mit AAC Devices, Eingang auf untypische Körpersprache, etcetera)
+- Weiterbilungsmöglichkeiten für Lehrer, Eltern und Familienangehörige
+- Interesse für eigene Weiterentwicklung -- Ausbau der eigenen Empathie und Rückbildung von Stereotypen
+- Nutzung auf Wunsch von autistischen Bekanntschaften und Freunden
 
 ## Erwartete Ergebnisse
 
