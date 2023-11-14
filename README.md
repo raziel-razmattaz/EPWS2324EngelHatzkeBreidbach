@@ -10,14 +10,6 @@ Forscher haben intensiv die kognitiven und neurologischen Unterschiede untersuch
 
 Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft sozial ausgeschlossen. Das erschwert es ihnen, Freundschaften zu schließen und Arbeit zu finden. Während einige Programme Autisten anleiten, sich anzupassen, gibt es weniger, die Nicht-Autisten beibringen, autismusfreundlicher zu sein. In einer Studie wurde ein kurzes Video mit Unterstützung von Autisten erstellt, um Menschen über Autismus aufzuklären. Es zeigte sich, dass Nicht-Autisten, die dieses Video sahen, bessere Kenntnisse und freundlichere Einstellungen gegenüber Autismus hatten.
 
-### Domänenmodell
-
-![Domänenmodell](https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach/assets/116623272/b9f49c5b-32cb-4acc-b408-b4d6edffd358)
-
-![Untitled-2](https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach/assets/116623272/0a955785-f10a-4c0d-a6a9-678f6bc6a347)
-
-
-
 ### Ursache-Wirkung-Diagramm
 
 ![Vorläufiges Ursache-Wirkungs-Diagramm](https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach/assets/116623272/fdd04687-a7e6-4194-892d-5eec860b9854)
@@ -25,6 +17,20 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 ## Zielsetzung
 
 Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten von Nicht-Autisten gegenüber Autisten fördert.
+
+## Kontextabgrenzung
+
+In der ersten Phase der Entwicklung, wurde der Problemraum im allgemeinen untersucht. Dies erlaubt ein weitgehendes Verständniss der Problemlage; um aber ein konkretes Lösungssystem entwickeln zu können, muss ....
+
+TEXT HERE
+
+NEW DOMAIN MODELL
+
+Die allgemeine Problemraumanalyse ist hier zu finden:
+
+- [Erstes Domänenmodell](Artefacts/Original_Domaenenmodell.md)
+- [Originale Stakeholderanalyse](Artefacts/Original_Stakeholder.md)
+- [Originale Erfordernisse](Artefacts/Original_Erfordernisse.md)
 
 ## Leitfragen
 
@@ -66,3 +72,10 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 - [Erste Betrachtung der Projektrisiken](Artefacts/Projektrisiken.md)
 - [Projektplan](Artefacts/Projektplan.md)
 - [Zielhierachie](Artefacts/Zielhierachie.md)
+
+
+
+
+
+
+
