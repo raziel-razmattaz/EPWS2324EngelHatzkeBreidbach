@@ -24,7 +24,9 @@ In der ersten Phase der Entwicklung, wurde der Problemraum im allgemeinen unters
 
 TEXT HERE
 
-NEW DOMAIN MODELL
+Das Domänenmodell befasst sich besonders mit den direkten Verhältnissen zwischen Autisten und ihren Arbeitskollegen, sowie wie diese ihr Arbeitserlebnis beeinflussen.
+
+<img src="Artefacts/domain_modell_job_disc.png" alt="Domänenmodell für Autismus-Diskriminierung am Arbeitsplatz" width="800px"/>
 
 Die allgemeine Problemraumanalyse ist hier zu finden:
 
@@ -67,11 +69,12 @@ Die allgemeine Problemraumanalyse ist hier zu finden:
 ## Weitere Artefakte
 
 - [Forschungsstand](Artefacts/Quellen.md)
-- [Stakeholderanalyse](Artefacts/Stakeholder.md)
-- [Erfordernisse](Artefacts/Erfordernisse.md)
 - [Erste Betrachtung der Projektrisiken](Artefacts/Projektrisiken.md)
 - [Projektplan](Artefacts/Projektplan.md)
+- [Stakeholderanalyse](Artefacts/Stakeholder.md)
+- [Erfordernisse](Artefacts/Erfordernisse.md)
 - [Zielhierachie](Artefacts/Zielhierachie.md)
+- [Anforderungen](Artefacts/Anforderungen.md)
 
 
 
