@@ -8,6 +8,7 @@
 3. Das System sollte dem Benutzer die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben.
 4. Das System muss dem Benutzer ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
 5. Das System muss dem Arbeitgeber/Vorgesetzten die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
+6. Das System sollte dem Benutzer die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
    
 ---
 ### Qualitätsanforderungen
