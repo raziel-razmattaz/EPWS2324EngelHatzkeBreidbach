@@ -22,6 +22,8 @@
 1. Verwendete Graphiken sollten mit einer farbenblindfreundlichen Farbgestaltung kolorierbar sein.
 1. Die verwendeten Schriftarten sollten für Nutzer mit Legasthenie möglichst einfach zu lesen sein.
 1. Die Interaktionsumgebung sollte für Nutzer ohne besondere Vorerfahrung einfach erlernbar sein.
+1. Das System sollte so konzipiert sein, dass die Schriftgröße jederzeit änderbar ist.
+(Das System muss so konzipiert sein, dass es mindestens nach den vorgeschriebenen Richtlinien barrierefrei ist.)
 ---
 ### Organisatorische Anforderungen
 ---
