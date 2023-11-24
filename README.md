@@ -20,7 +20,7 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 
 ## Kontextabgrenzung
 
-In der ersten Phase der Entwicklung, wurde der Problemraum im allgemeinen untersucht. Dies erlaubt ein weitgehendes Verständniss der Problemlage; um aber ein konkretes Lösungssystem entwickeln zu können, muss ....
+In der ersten Phase der Entwicklung, wurde der Problemraum im Allgemeinen untersucht. Dies erlaubt ein weitgehendes Verständnis der Problemlage; um aber ein konkretes und effektives Lösungssystem entwickeln zu können, muss dieser Problemraum adequat eingegrenzt werden. Verschiedene Bereiche kamen hierbei infrage, unter anderem der Kontext von Kindern mit ASD in ihren Familien, Kindern von ASD in schulischem Kontext und Menschen mit ASD im öffentlich-rechtlichen Kontext. Nach Analyse der Notwendigkeit und Umsetzbarkeit eines Lösungssystems in den verschiedenen Bereichen wurde eine Festlegung des Lösungskontextes auf Menschen mit ASD im Arbeitsleben vorgenommen. Im weiteren Verlauf wird dieser Bereich noch einmal detailierter analysiert und ein Lösungssystem auf Basis der gefundenen Probleme und Gegebenheiten erstellt.
 
 TEXT HERE
 
