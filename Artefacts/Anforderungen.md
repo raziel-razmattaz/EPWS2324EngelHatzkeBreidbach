@@ -3,7 +3,12 @@
 ### Funktionale Anforderungen
 ---
 #### Muster: Das System [muss/sollte/kann] dem spezifischen Benutzer [die Möglichkeit bieten X zu tun/ein bestimmtes Resultat darbieten].
-1. TBD
+1. Das System muss dem Benutzer die Möglichkeit bieten Wissen zum Thema ASD zu erhalten.
+2. Das System muss dem Beutzer die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+3. Das System sollte dem Benutzer die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben.
+4. Das System muss dem Benutzer ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
+5. Das System muss dem Arbeitgeber/Vorgesetzten die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
+   
 ---
 ### Qualitätsanforderungen
 ---
