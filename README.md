@@ -22,11 +22,11 @@ Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten
 
 In der ersten Phase der Entwicklung, wurde der Problemraum im Allgemeinen untersucht. Dies erlaubt ein weitgehendes Verständnis der Problemlage; um aber ein konkretes und effektives Lösungssystem entwickeln zu können, muss dieser Problemraum adequat eingegrenzt werden. Verschiedene Bereiche kamen hierbei infrage, unter anderem der Kontext von Kindern mit ASD in ihren Familien, Kindern von ASD in schulischem Kontext und Menschen mit ASD im öffentlich-rechtlichen Kontext. Nach Analyse der Notwendigkeit und Umsetzbarkeit eines Lösungssystems in den verschiedenen Bereichen wurde eine Festlegung des Lösungskontextes auf Menschen mit ASD im Arbeitsleben vorgenommen. Im weiteren Verlauf wird dieser Bereich noch einmal detailierter analysiert und ein Lösungssystem auf Basis der gefundenen Probleme und Gegebenheiten erstellt.
 
-TEXT HERE
-
 Das Domänenmodell befasst sich besonders mit den direkten Verhältnissen zwischen Autisten und ihren Arbeitskollegen, sowie wie diese ihr Arbeitserlebnis beeinflussen.
 
 <img src="Artefacts/domain_modell_job_disc.png" alt="Domänenmodell für Autismus-Diskriminierung am Arbeitsplatz" width="800px"/>
+
+TEXT HERE
 
 Die allgemeine Problemraumanalyse ist hier zu finden:
 
@@ -36,14 +36,15 @@ Die allgemeine Problemraumanalyse ist hier zu finden:
 
 ## Leitfragen
 
-- Können Chatbots die sozialen Interaktionen von und mit Autisten positiv beeinflussen?
-- Können Chatbots Übungen für soziale Interaktionen zwischen Nicht-Autisten und Autisten erstellen?
+- Können Interaktive Übungen negative Eindrücke und Vorurteile von Nicht-Autisten gegenüber Autisten verringern?
+- Wie kann ein interaktives Toleranztraining im Bereich Autismus gamifiziert gestaltet werden?
 
 ## Themen 
-- Künstliche Intelligenzen/Chatbots
-- Trainings für soziale Interaktionen im Kontext Autismus
-- OpenAi Verwendungsmöglichkeiten
+
+- Toleranztraining im Bereich Arbeitswelt
+- Autismus am Arbeitsplatz
 - Gamification
+- Interaktive Schulungen
 
 ## Alleinstellungsmerkmal
 
@@ -52,11 +53,11 @@ Die allgemeine Problemraumanalyse ist hier zu finden:
 
 ## Nutzungsmotivation
 
-- Schulungsangebote für Unternehmen, Bildungseinrichtungen und Regierungseinrichtungen
+- Schulungsangebote für Unternehmen
 - Toleranztraining für Customer Service Reps (Umgang mit AAC Devices, Eingang auf untypische Körpersprache, etcetera)
-- Weiterbilungsmöglichkeiten für Lehrer, Eltern und Familienangehörige
+- Weiterbilungsmöglichkeiten für Kollegen und Manager
 - Interesse für eigene Weiterentwicklung -- Ausbau der eigenen Empathie und Rückbildung von Stereotypen
-- Nutzung auf Wunsch von autistischen Bekanntschaften und Freunden
+- Effektivere Einbindung von autistischen Mitarbeitern
 
 ## Erwartete Ergebnisse
 
