@@ -16,7 +16,7 @@ Erwachsene mit Autismus erfahren Vorurteile von Nicht-Autisten und werden oft so
 
 ## Zielsetzung
 
-Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten von Nicht-Autisten gegenüber Autisten fördert.
+Wir wollen ein System entwickeln, das Kommunikation und akzeptierendes Verhalten von Nicht-Autisten gegenüber Autisten in der Arbeitswelt fördert. Zu akzeptierendem Verhalten gehört hierbei auch eine Aufmerksamkeit auf mit ASD einhergehenden Herausforderungen und Sensibilitäten und mögliche entsprechende Gesatltung des Arbeitsraumes.
 
 ## Kontextabgrenzung
 
