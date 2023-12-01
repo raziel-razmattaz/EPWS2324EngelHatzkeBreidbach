@@ -3,29 +3,28 @@
 ### Sozial
 
 - mögliche Förderung bereits existierender negativer Stereotype über Autisten
-- nur einseitige Betrachtung des Autismusspektrums &rarr; fehlende Vorstellung von Autisten mit "unüblichen" Symptomausprägungen
 - Schulungsmaterial wird nicht ernst genommen &rarr; unzureichende Belehrung der Nutzer, insbesondere falls Teil eines betrieblichen Toleranztrainings o.ä.
 - Nutzer ziehen falsche (möglicherwiese negative) Schlüße aus dem Schulungsmaterial &rarr; wird tastächlich das vermittelt, was vermittelt werden soll?
 - Confirmation Bias der Nutzer stärkt ungewollt bisherige Weltanschauung bei Betrachtung des Schulungsmaterials
 
-### Nutzung und Sicherheit
+### Inhaltlich
 
-- ChatBots sind nicht in der Lage gute Ergebnisse zu liefern &rarr; nur Weitervermittlung bestehender Stereotypen
-- Nutzer nehmen System und Problemlage aufgrund bestehender Vorurteile nicht ernst
-- fehlende Nutzungsmotivation in Schulungs- und Privatkontexten &rarr; Entwicklung nicht rentabel
-- Missbrauchspotential der ChatBot-Funktion &rarr; "Prompt-Insertion" umgeht gewollte Funktionalität
-- zu lange Antwortzeit der API unterbricht User Flow und &rarr; fördert Demotivation
-- API bietet mögliche unentdeckte Security Risks, insbesondere im Bereich Datensicherheit
+- keine komprehensive Abdeckung des Spektrums möglich &rarr; fehlende Vorstellung von Autisten mit "unüblichen" Symptomausprägungen
+- wird das Material auf anchauliche und verständliche Weise vermittelt?
+- mögliche Fokussierung auf falsche Aspekte &rarr; lernen die Benutzer nur Theorie oder auch etwas für den alltäglichen Umgang mit anderen?
+- mögliche Fokussierung auf falsche Aspekte &rarr; lernen die Benutzer nur Kommunikationsmuster ohne deren tieferen Sinn zu verstehen?
 
-### Technisch/Architekturiell
+### Architekturiell/Technisch
 
-- Schwierigkeiten eine geeignete API mit gewünschter ChatBot-Funktionalität zu finden
-- Fehler in der API führen zu ungewünschten Ergebnissen
-- Abhängigkeit von externen Diensten &rarr; Probleme bei Dienstausfall oder Kostenerhöhung
+- Narrat weist eventuell in Bezug auf Funktionalität, Flexibilität oder Leistung Einschränkungen auf, welche die Entwicklung bestimmter Anforderungen behindern könnte
+- insbesondere: Narrat bietet keine eingebaute Funktionalität für die Unterstützung mehrere Sprachen an
+- Narrat ist eine sehr neue Engine, mit kleiner Community &rarr; möglicherweise schwer Support bei Problemen zu finden
+- möglicherwiese Probleme bei Wartung/Aktualiserung der Engine, besonders falls eigene Plug-Ins/Erweiterungen verwendet werden
+- Narrat-Projekte können bei der Skalierung auf komplexere Bildungsinhalte vor Herausforderungen stehen &rarr; Auswirkung auf die Leistung oder Funktionalität
 - Datensicherheit und Privatschutz &rarr; welche User Daten müssen wie lange wo gespeichert werden?
-- unterliegende Sicherheitsprobleme bei der API &rarr; Vulnerability zu Angriffen von außen
-- mögliche Kosten und Kostenerhöhung der externen Dienste
 
-### Technologie-Abhängig
+### Kompetenzorientiert
 
-- TBD when system architecture has been decided
+- komplexe Sachverhalte können schwer zu modellieren sein &rarr; Probleme insbesondere bei Wartung der einzelnen "Wege"
+- neue Technologie &rarr; eventuell schwer für die Team-Mitglieder zu erlernen
+
