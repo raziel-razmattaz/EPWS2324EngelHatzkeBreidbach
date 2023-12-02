@@ -21,6 +21,8 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 
 ### 2. Audit
 
+- Projekteingrenzung ausformulieren
+- Quellenaggregation zum eingegrenzten Thema & Sichtung
 - Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...)
 - Grobes Architekturmodell
 - Anforderungsanalyse
