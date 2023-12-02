@@ -7,3 +7,6 @@ Das Lösungssystem muss so gestaltet sein, dass eine gewisse Motivation bei den 
 Um sicher zu stellen, dass das Informationsmaterial nicht nur durch geklickt wird und um eine Herausforderung zu bieten, welche wiederum Motivation hervorbringt, gilt ein Kapitel nur nach der Erfüllung eigiger Bedingungen z.B. nach dem korrekten Lösen von Fragen als abgeschlossen und bestanden. Weiterführende Kapitel können erst danach begonnen werden und damit ein Training als absolviert gilt muss eine Mindestanzahl an Kapiteln erfolgreich bearbeitet worden sein. Ein Punktesystem ist auch denkbar. 
 
 ## Detailierte Ausarbeitung und Notizen
+
+# Verschiedene mögliche Nutzungsflows bzw. interne Strukturen
+# Verschiedene mögliche UI Designs
