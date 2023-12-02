@@ -21,13 +21,16 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 
 ### 2. Audit
 
-- Projekteingrenzung ausformulieren
+- Projekteingrenzung ausformulieren (Ines)
 - Quellenaggregation zum eingegrenzten Thema & Sichtung
-- Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...)
+- Ausgearbeitete Projektrisiken (architekturell, sozial, technisch, ...) (Raziel)
+- Erfordernisse für neuen Projektkontext (Timo)
+- Stakeholdertabelle für neuen Projektkontext (Ines)
+- Domänenmodell für neuen Projektkontext (Raziel)
+- Untersuchung verschiedener Technologien (Ines)
 - Grobes Architekturmodell
-- Anforderungsanalyse
+- Anforderungsanalyse (Alle)
 - Festlegung von Projektarchitektur und Technologien
-- Projektrisiken fertigstellen
 - Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
 - Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen
 - Evaluation der PoCs
