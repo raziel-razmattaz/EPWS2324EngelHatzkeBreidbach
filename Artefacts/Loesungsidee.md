@@ -8,5 +8,5 @@ Um sicher zu stellen, dass das Informationsmaterial nicht nur durch geklickt wir
 
 ## Detailierte Ausarbeitung und Notizen
 
-# Verschiedene mögliche Nutzungsflows bzw. interne Strukturen
-# Verschiedene mögliche UI Designs
+### Verschiedene mögliche Nutzungsflows bzw. interne Strukturen
+### Verschiedene mögliche UI Designs
