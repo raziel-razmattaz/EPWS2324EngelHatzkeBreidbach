@@ -1,5 +1,5 @@
-##Erste Lösungsidee
+## Erste Lösungsidee
 
 
 
-##Detailierte Ausarbeitung und Notizen
+## Detailierte Ausarbeitung und Notizen
