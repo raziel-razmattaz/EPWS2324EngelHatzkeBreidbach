@@ -3,12 +3,26 @@
 ### Funktionale Anforderungen
 ---
 #### Muster: Das System [muss/sollte/kann] dem spezifischen Benutzer [die Möglichkeit bieten X zu tun/ein bestimmtes Resultat darbieten].
-1. Das System muss dem Benutzer die Möglichkeit bieten Wissen zum Thema ASD zu erhalten.
-2. Das System muss dem Beutzer die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
-3. Das System sollte dem Benutzer die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben.
+1. Das System muss dem Benutzer die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+2. Das System muss dem Beutzer die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen, um Diskriminierung zu vermeiden.
+3. Das System sollte dem Benutzer die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
 4. Das System muss dem Benutzer ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
 5. Das System muss dem Arbeitgeber/Vorgesetzten die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
 6. Das System sollte dem Benutzer die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+7. Das System muss dem Beutzer die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+8. Das System muss dem Benutzer die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+9. Das System sollte dem Benutzer die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+10. Das System muss einer Person ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+11. Das System muss einer Person ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+12. Das System sollte dem Benutzer die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+13. Das System sollte dem Benutzer Fortschitte so anzeigen, sodass diese*r motiviert ist weiter zu lernen.
+14. Das System sollte dem Benutzer eine Überprüfung der Lernerfolge ermöglichen.
+15. Das System sollte dem Benutzer Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+16. Das System sollte dem Arbeitgeber ein Bewusstsein für Führungsstrategien entwickeln, die die Integration von Personen mit ASD unterstützen.
+17. Das System sollte dem Benutzer beibrigen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+18. Das System sollte dem Benutzer ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+19. Das System sollte dem Benutzer ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+20. tbd
    
 ---
 ### Qualitätsanforderungen
