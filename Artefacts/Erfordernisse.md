@@ -19,4 +19,7 @@ Die Perspektive der Menschen mit ASD in den Erfordernissen mit einbinden? Checke
 14. Als Arbeitgeber:innen von Menschen mit ASD muss man Schulungsmaterialien über Autismus haben, um ASD veranschaulichen zu können.
 15. Als Arbeitgeber:innen von Menschen mit ASD muss man Schulungen zu inklusiven Praktiken und Ressourcen für Teammitglieder zur verfügung haben, um das Bewusstsein für die Bedeutung von Vielfalt und Inklusion zu schärfen zu können.
 16. Als Arbeitgeber:innen muss man Autismus-spezifisches Schulungsmaterial verfügbar haben, um im Falle von Diskriminierung Toleranztraining mit seinen Mitarbeitern durchführen zu können
-17. Als Antidiskriminierungsstelle 
+17. Als Antidiskriminierungsstelle muss man Mitarbeiter mit genügend Verständniss im Bereich ASD verfügbar haben, um in dem Bereich Aufklärung uns Sensibiliserung erfolgreich durchführen zu können.
+18. Als Antidiskriminierungsstelle muss man Autismus-spezifisches Schulungsmaterial verfügbar haben, um Schulungen mit seinen Mitarbeitern durchführen zu können.
+19. Als Antidiskriminierungsstelle muss man Autismus-spezifisches Forschungsressourcen verfügbar haben, um Forschung zu Diskriminierung beteiben zu können.
+20. Als Integrationsamt muss man akkurate Wege der Wissensvermittlung zur Verfügung haben, um die Erhaltung/Erweiterung beruflicher Kenntnisse/Fähigkeiten von Menschen mit ASD fördern zu können.
