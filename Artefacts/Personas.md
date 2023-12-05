@@ -1,6 +1,8 @@
-## Benutzer
+## Nutzende und Zielgruppen
 
-small text about the different groups of people we're targeting
+Aus einem Problemkontext um Menschen mit ASD am Arbeitsplatz und dem Lösungsansatz Menschen ohne ASD in diesem Bereich zu informieren, ergeben sich verschiedene Nutzende und Zielgruppen. 
+Vor allem nicht-ASD betroffenen Betroffene Personen im Arbeitsalltag, seien es Teamkollegen, Kunden oder vorgesetzte Personen ...
+ Neben den betroffenen Menschen mit ASD im Arbeitsbereich, sei es als Teil eines Teams oder als Kunde oder auch vorgesetzte Person sind...
 
 ### Personas
 
