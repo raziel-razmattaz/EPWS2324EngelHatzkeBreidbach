@@ -8,7 +8,7 @@ Um die Benutzergruppe weiter auszuarbeiten, werden mehrere Personas genutzt. Hie
 
 #### Themenbezug: [Autist am Arbeitsplatz/Autist als Kunde/NA-Mitarbeiter/NA-Personalmanager]
 
-<img src="Artefacts/PersonaBild.png" alt="Bild für die Persona des Menschen mit ASD am Arbeitsplatz" width=800px/>
+<img src="PersonaBild.png" alt="Bild für die Persona des Menschen mit ASD am Arbeitsplatz" width=800px/>
 
 *Name*: Heike Ründeroth
 
