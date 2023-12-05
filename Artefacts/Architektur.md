@@ -2,7 +2,7 @@
 
 ### Narrat: 
 JS basierte Engine
-+Compilierbar und als Desktop App auf Mac, Windows und Linux verwendbar
++Compilierbar und als Desktop App auf Mac, Windows und Linux verwendbar, Open Source
 -eigentlich für narative RPGs
 
 ### Naninovel:
