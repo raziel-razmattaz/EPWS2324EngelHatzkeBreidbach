@@ -46,3 +46,23 @@ Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu 
 Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und er wird dazu aufgefordert den Vorgang zu wiederholen.
 
 
+
+## Dokumentation POC Speicherung von Freitext *Flavour Choices* des Nutzenden
+### Beschreibung:
+
+Um das Lernerlebnis attraktiver und persönlicher gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Um sie später weiter verwenden zu können, besitzen die Eingabefelder Eingabekontrollen bzw. Vorgaben, wie die Eingabe auszusehen hat. Die eingegebenen Antworten werden dann jeweils unter einzelne Variablen in den localStorage gelegt. 
+
+### Exit-Kriterien:
+
+Die Nutzende Person hat eine korrekte Eingabe getätigt und die Auswahl wird unter der korrekten Variable erfolgreich gespeichert.
+
+### Fail-Kriterien:
+
+1.	Die Eingabe des Nutzenden unvollständig oder inkorrekt.
+2.	Das Speichern der Daten schlägt fehl.
+
+### Fallback:
+
+Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
+
+Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und sie wird dazu aufgefordert den Vorgang zu wiederholen.
