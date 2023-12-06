@@ -1,4 +1,4 @@
-## Dokumentation POC einfache Fortschritt-Speicherung
+## Dokumentation POC Fortschritt-Speicherung
 ### Beschreibung:
 Die Nutzende Person bearbeitet einen Teil der Aufgaben und verlässt dann die Session. Der Fortschritt wird bis zum letzten intern festgelegten automatischen Speicherpunkt in Form von Speicherpunkt-IDs über die WebStorage API in localStorage festgehalten.
 
