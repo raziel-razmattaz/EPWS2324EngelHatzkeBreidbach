@@ -38,11 +38,20 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen (still to be done)
 - Evaluation der PoCs (still to be done)
 - Präsentation für den 2. Audit fertigstellen
-- Projektplan für 3. Audit fertigstellen
+- Projektplan für 3. Audit fertigstellen (Ines)
 
 ### 3. Audit
 
-TBD
+- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen 
+- Evaluation der PoCs
+- Durchgeführte PoCs
+- Erster vertikaler Rapid Prototype
+- Iterierte Modellierungen und Modellierungsbegründungen
+- Genaue Ausarbeitung der Social Computing Aspekte (Gamification, Ethics,...)
+- Modellierung der Anwendungslogik, z. B. durch begründete Auswahl von Algorithmen und (Pseudo)code
+- Präsentation für den 3. Audit fertigstellen
+- Vorbereitung des Posterslams
+- Projektplan für den 4. Audit festlegen
 
 ### 4. Audit
 
