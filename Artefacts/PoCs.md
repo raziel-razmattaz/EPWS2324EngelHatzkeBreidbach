@@ -9,7 +9,7 @@ Der korrekte Stand wird an die API übergeben und in localStorage gespeichert.
 
 ### Fail-Kriterien:
 
-1.	 localStorage ist nicht verfügbar in dem Browser
+1.	localStorage ist nicht verfügbar in dem Browser
 2.	Aufgrund von Sicherheitseinstellungen ist localStorage nicht nutzbar
 3.	Der Speicher ist voll
 4.	Der Stand wird nicht im localStorage gespeichert
@@ -29,7 +29,7 @@ Zu 4. Durch catch wird überprüft, ob erfolgreich gespeichert wurde. Ist dies n
 
 ## Dokumentation POC Speicherung auswahlbeschränkter *Flavour Choices* des Nutzenden
 ### Beschreibung:
-Um das Lernerlebnis attraktiver und persönlicher gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Hierfür können aus werden die Antworten jeweils als einzelne Variablen in den localStorage gelegt. 
+Um das Lernerlebnis attraktiver und persönlicher zu gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Hierfür können aus werden die Antworten jeweils als einzelne Variablen in den localStorage gelegt. 
 
 ### Exit-Kriterien:
 Die Nutzende Person hat erfolgreich eine Auswahl getroffen und die Auswahl wird unter der korrekten Variable erfolgreich gespeichert.
@@ -43,14 +43,14 @@ Die Nutzende Person hat erfolgreich eine Auswahl getroffen und die Auswahl wird 
 
 Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
 
-Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und er wird dazu aufgefordert den Vorgang zu wiederholen.
+Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und sie wird dazu aufgefordert den Vorgang zu wiederholen.
 
 
 
 ## Dokumentation POC Speicherung von Freitext *Flavour Choices* des Nutzenden
 ### Beschreibung:
 
-Um das Lernerlebnis attraktiver und persönlicher gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Um sie später weiter verwenden zu können, besitzen die Eingabefelder Eingabekontrollen bzw. Vorgaben, wie die Eingabe auszusehen hat. Die eingegebenen Antworten werden dann jeweils unter einzelne Variablen in den localStorage gelegt. 
+Um das Lernerlebnis attraktiver und persönlicher zu gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Um sie später weiter verwenden zu können, besitzen die Eingabefelder Eingabekontrollen bzw. Vorgaben, wie die Eingabe auszusehen hat. Die eingegebenen Antworten werden dann jeweils unter einzelne Variablen in den localStorage gelegt. 
 
 ### Exit-Kriterien:
 
