@@ -66,3 +66,24 @@ Die Nutzende Person hat eine korrekte Eingabe getätigt und die Auswahl wird unt
 Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
 
 Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und sie wird dazu aufgefordert den Vorgang zu wiederholen.
+
+
+
+## Dokumentation POC Nutzung *Flavour Choices* des Nutzenden
+### Beschreibung:
+
+Um das Lernerlebnis attraktiver und persönlicher zu gestalten, wurden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um diese nun in das Lernerlebnis einzuarbeiten. Hierfür werden die entsprechend erforderlichen Daten Variablen aus dem localStorage abgerufen.
+### Exit-Kriterien:
+
+Die richtige Variable wird abgerufen und korrekt in das Lernerlebnis eingebaut.
+
+### Fail-Kriterien:
+
+1.	Das Abrufen der Daten schlägt fehl.
+2.	Die Daten haben nicht die entsprechende Form, um in dem Kontext korrekt eingesetzt werden zu können. 
+
+### Fallback:
+
+Zu 1.:  Es wird eine generische Lernerfahrung eingesetzt.
+
+Zu 2.: Es wird eine generische Lernerfahrung eingesetzt. Alternativ: Nutzung von AI um dynamisch Anpassungen ausführen zu können.
