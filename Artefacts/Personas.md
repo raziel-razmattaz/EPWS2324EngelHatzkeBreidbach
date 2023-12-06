@@ -8,7 +8,7 @@ Vor allem nicht-ASD betroffenen Betroffene Personen im Arbeitsalltag, seien es T
 
 Um die Benutzergruppe weiter auszuarbeiten, werden mehrere Personas genutzt. Hierfür werden zunächst einige Eckdaten der hypothetischen Person aufgeführt, sowie ein kleines Szenario mit ihrer persönlichen Relevanz und Sichtweise zu der Problemstellung dargestellt.
 
-#### Themenbezug: Autist am Arbeitsplatz
+#### Themenbezug: Autistin am Arbeitsplatz
 
 <img src="PersonaBild.png" alt="Bild für die Persona des Menschen mit ASD am Arbeitsplatz" width=100px/>
 
@@ -30,7 +30,7 @@ Um die Benutzergruppe weiter auszuarbeiten, werden mehrere Personas genutzt. Hie
 Heike genießt die immer wieder neuen Herausforderungen bei ihrer Arbeit, die durch die vielen verschiedenen Nutzenden der Shopping Plattform entstehen. Jede neue Anforderung muss in das bereits bestehende System perfekt eingefügt werden. Allerdings ändern die Nutzenden in letzter Zeit häufig spontan ihre Anforderungen, sodass es zu Zeitdruck und Durcheinander im Entwickelnden-Team kommt. Letzens hat sie bei einem Team Meeting einen Kollegen gefragt, warum er eine Aufgabe auf die Weise gelöst hat wie er es getan hat und anstatt eine fachlichen Antwort zu erhalten hat der Kollege nur Gegenfragen gestellt. Sie würde sich insgesamt einen besseren Anschluss an das Team wünschen, aber es fällt ihr schwer an den nicht-fachlichen Gesprächen teilzunehmen und größere soziale Treffen sind aufgrund der Lautstärke meist sehr anstrengend für sie. 
 
 
-#### Themenbezug: Nicht-Autistische Mitarbeiterin
+#### Themenbezug: Nicht-Autistische Mitarbeiterin (starke Vorurteile)
 
 <img src="pexels-linkedin-sales-navigator-3867837.jpg" alt="Stock Photo einer weißen Frau in einer generischen Büro-Umgebung" width="240px"/>
 
