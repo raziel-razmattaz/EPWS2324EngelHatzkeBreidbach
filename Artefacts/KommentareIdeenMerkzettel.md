@@ -4,3 +4,5 @@
 Vorschlag: in nicht zu großen abständen an sinnvollen punkten „speicherpunkte“ einbauen
 
 verschiedene Nutzende auf einem Gerät?! -> login?! -> wenn ja, dann unbedingt IndexDB statt Webstorage
+
+!Festlegung ob *favoured choices* aus einer auswahl getroffen werden sollen oder auch freie eingaben enthalten können!
