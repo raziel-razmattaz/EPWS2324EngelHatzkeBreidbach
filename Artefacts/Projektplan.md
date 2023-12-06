@@ -33,10 +33,10 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Entwicklung von User Flows
 - Erstellung von Use Cases (Raziel)
 - Erstellung von Persona und Szenarien (Alle)
-- Festlegung von Projektarchitektur und Technologien
-- Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
-- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen (Ines)
-- Evaluation der PoCs
+- Festlegung von Projektarchitektur und Technologien (Alle)
+- Spezifikation des ersten technischen/architekturellen Proof-of-Concepts (Ines)
+- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen (still to be done)
+- Evaluation der PoCs (still to be done)
 - Präsentation für den 2. Audit fertigstellen
 - Projektplan für 3. Audit fertigstellen
 
