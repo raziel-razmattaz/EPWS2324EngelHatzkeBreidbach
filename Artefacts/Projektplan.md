@@ -45,6 +45,7 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen 
 - Evaluation der PoCs
 - Durchgeführte PoCs
+- UI-Design entwickeln
 - Erster vertikaler Rapid Prototype
 - Iterierte Modellierungen und Modellierungsbegründungen
 - Genaue Ausarbeitung der Social Computing Aspekte (Gamification, Ethics,...)
