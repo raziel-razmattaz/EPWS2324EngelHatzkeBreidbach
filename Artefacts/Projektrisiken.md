@@ -14,22 +14,20 @@
 #### Platformkompabilität
 - *Welche Platformkompabilität kann und muss gesichert werden?* Verschiedene Arbeitsplätze nutzen verschiedene Betriebsysteme, wie macOS oder Windows11, auf ihren Arbeitscomputern. Wir das System also nur für ein Betriebssystem entwickelt, könnten große Teile der potentiellen Nutzergruppe wegfallen. Die Entwicklung für mehrere Betriebsysteme benötigt auch passende Hardware (im Falle von macOS) um die Anwendung genügend zu testen. Um eine möglichst hohe Kompabilität zu sichern, wird das Projekt also als Web-App entwickelt. Eine Web-App kann ohne Installationsaufwand genutzt werden. Betriebssystem-abhängige Probleme werden so stark vermindert.
 
+---
+
 ### Sozial
 
-- Schulungsmaterial wird nicht ernst genommen &rarr; unzureichende Belehrung der Nutzer, insbesondere falls Teil eines betrieblichen Toleranztrainings o.ä.
-- Nutzer ziehen falsche (möglicherwiese negative) Schlüße aus dem Schulungsmaterial &rarr; wird tastächlich das vermittelt, was vermittelt werden soll? 
-- mögliche Förderung bereits existierender negativer Stereotype über Autisten
-- Confirmation Bias der Nutzer stärkt ungewollt bisherige Weltanschauung bei Betrachtung des Schulungsmaterials
-
-
-#### Digitale Infrastruktur
-- *Wie sieht die digitale Infrastruktur am Arbeitsplatz aus?* ...
+#### Nutzungsmotivation
+- *Besteht genug persönliche Nutzungsmotivation?* Insbesondere wenn Teil eines betrieblichen Toleranztrainings, wird Schulungsmaterial oft nicht ernst genommen; das führt auch zu unzureichende Belehrung der Nutzer. Deshalb ist es wichtig, bei der Entwicklung anreizende Aspekte der Gamification zu integrieren. Das Interesse am Thema kann so nicht bei dem Benutzer geschaffen werden, aber so kann dennoch genug Fokus gesichert werden um etwas mitzunehmen.
 
 ---
 
 ### Inhaltlich
 
-- keine komprehensive Abdeckung des Spektrums möglich &rarr; fehlende Vorstellung von Autisten mit "unüblichen" Symptomausprägungen
-- wird das Material auf anchauliche und verständliche Weise vermittelt?
-- mögliche Fokussierung auf falsche Aspekte &rarr; lernen die Benutzer nur Theorie oder auch etwas für den alltäglichen Umgang mit anderen?
-- mögliche Fokussierung auf falsche Aspekte &rarr; lernen die Benutzer nur Kommunikationsmuster ohne deren tieferen Sinn zu verstehen?
+#### Verständniss
+- *Wird das Material auf anschauliche und verständliche Weise vermittelt?* Es besteht das Risiko, das Nutzer falsche (möglicherwiese sogar negative) Schlüße aus dem Schulungsmaterial ziehen. Wird also tatsächlich das vermittelt, was vermittelt werden soll? Diese Risiken können nicht behoben werden, sondern nur durch eigenes Fachwissen vermindert und durch User Testing möglichst behoben werden.
+
+#### Lernerfolg
+
+- *Wird sich inhaltlich auf die richtigen Aspekte fokusiert?* Lernen die Benutzer nur Theorie oder auch etwas für den alltäglichen Umgang mit anderen? Auf der anderen Seite, lernen die Benutzer nur Kommunikationsmuster ohne deren tieferen Sinn zu verstehen? Es ist auch keine komprehensive Abdeckung des Spektrums möglich, was zu fehlendem Verständniss von Autisten mit "unüblichen" Symptomausprägungen führen kann. Diese Risiken können nicht behoben werden, sondern nur durch eigenes Fachwissen vermindert und durch User Testing möglichst behoben werden.
