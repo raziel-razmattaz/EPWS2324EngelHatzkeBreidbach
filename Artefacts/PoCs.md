@@ -25,3 +25,24 @@ Zu 3. Bei Öffnen der Seite wird über eine initiale Speicherung überprüft, ob
 
 Zu 4. Durch catch wird überprüft, ob erfolgreich gespeichert wurde. Ist dies nicht der Fall, wird die nutzende Person benachrichtigt und hat die Option die Speicherung manuell erneut zu versuchen.
 
+
+
+## Dokumentation POC Speicherung auswahlbeschränkter *Flavour Choices* des Nutzenden
+### Beschreibung:
+Um das Lernerlebnis attraktiver und persönlicher gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Hierfür können aus werden die Antworten jeweils als einzelne Variablen in den localStorage gelegt. 
+
+### Exit-Kriterien:
+Die Nutzende Person hat erfolgreich eine Auswahl getroffen und die Auswahl wird unter der korrekten Variable erfolgreich gespeichert.
+
+### Fail-Kriterien:
+
+1.	Die Eingabe des Nutzenden unvollständig/nicht erfolgt.
+2.	Das Speichern der Daten schlägt fehl.
+
+### Fallback:
+
+Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
+
+Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und er wird dazu aufgefordert den Vorgang zu wiederholen.
+
+
