@@ -30,7 +30,8 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Untersuchung verschiedener Technologien (Ines)
 - Grobes Architekturmodell
 - Anforderungsanalyse (Alle)
-- Erstellung von Use Cases
+- Entwicklung von User Flows
+- Erstellung von Use Cases (Raziel)
 - Erstellung von Persona und Szenarien (Alle)
 - Festlegung von Projektarchitektur und Technologien
 - Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
