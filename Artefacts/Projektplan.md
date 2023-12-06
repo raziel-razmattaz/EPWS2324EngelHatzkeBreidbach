@@ -30,9 +30,11 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Untersuchung verschiedener Technologien (Ines)
 - Grobes Architekturmodell
 - Anforderungsanalyse (Alle)
+- Erstellung von Use Cases
+- Erstellung von Persona und Szenarien (Alle)
 - Festlegung von Projektarchitektur und Technologien
 - Spezifikation des ersten technischen/architekturellen Proof-of-Concepts
-- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen
+- Erste PoCs um Kernaspekte des Projekts zu erproben fertigstellen (Ines)
 - Evaluation der PoCs
 - Präsentation für den 2. Audit fertigstellen
 - Projektplan für 3. Audit fertigstellen
