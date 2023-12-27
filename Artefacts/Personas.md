@@ -50,6 +50,21 @@ Heike genießt die immer wieder neuen Herausforderungen bei ihrer Arbeit, die du
 
 *Persönliches Szenario*: Carla hat einen neuen Kollegen, Benjamin. Benjamin ist Autist mit geringem Unterstützungsbedarf (Level 1 Support Needs). Carla ist sich nicht sicher, wie er autistisch sein kann, denn er ist so anders als ihre Nichte und scheint sich relativ gut zurechtzufinden. Sie denkt, dass seine Anfragen nach Unterstützung (wie zum Beispiel ein ruhiger, separater Arbeitsplatz) etwas betrügerisch sind. Carla weiß, wie "echter Autismus" aussieht, und Benjamin tut offensichtlich nur so! Dadurch ist sie etwas bitter gegenüber ihm und macht sich hinter seinem Rücken mit ihren Kollegen über ihn lustig, was deren Verhalten gegenüber Benjamin ebenfalls negativ beeinflusst. Dies schafft eine schlechte Arbeitsumgebung für ihren neuen Kollegen.
 
-*Photo-Credits*: [Photo by LinkedIn Sales Navigator](https://www.pexels.com/photo/a-smiling-woman-in-a-pink-top-3867837/)
 
-#### Persona C
+#### Themenbezug: Teamleiter mit wenig Erfahrung im Umgang mit ASD
+
+<img src="michaelSccott.jpg" alt="Stock Photo eines weißen Office Managers in einer generischen Büro-Umgebung" width="240px"/>
+
+* Name: Markus Steinbach
+* Alter: 42
+* Interessen: Wandern, Jazzmusik, Schach spielen
+* Ausbildung: Master in Betriebswirtschaft
+* Beruf: Teamleiter in der IT-Abteilung einer mittelständischen Firma
+* Werte: Teamarbeit, Effizienz, Respekt
+
+*Kontakt mit dem Thema ASD*: Hat bisher wenig direkten Kontakt mit Menschen mit ASD gehabt und besitzt nur oberflächliches Wissen über das Thema.
+
+*Persönliches Szenario*: 
+Markus leitet ein diverses Team in der IT-Abteilung, das kürzlich durch zwei neue Teammitglieder verstärkt wurde, von denen eines, Lars, ASD hat. Markus ist unsicher, wie er am besten mit Lars umgehen soll, um ihm ein produktives Arbeitsumfeld zu bieten. Er möchte ein inklusives Team schaffen, fühlt sich aber unvorbereitet und unsicher, wie er auf Lars' spezifische Bedürfnisse eingehen kann. Kürzlich gab es einige Missverständnisse im Team bezüglich Lars' Kommunikationsstil, was zu Spannungen führte. Markus ist bestrebt, mehr über ASD zu erfahren und geeignete Unterstützungsmaßnahmen zu finden, um ein harmonisches und effektives Arbeitsumfeld für das gesamte Team zu schaffen.
+
+*Photo-Credits*: [Photo by LinkedIn Sales Navigator](https://www.pexels.com/photo/a-smiling-woman-in-a-pink-top-3867837/)
