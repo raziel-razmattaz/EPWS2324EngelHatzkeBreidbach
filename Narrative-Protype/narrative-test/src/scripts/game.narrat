@@ -66,15 +66,22 @@ section09:
   jump section10
 
 section10:
-  "here"
-  jump section11
+  "I think it’s time to move towards some practical, real-life examples you might encounter in your workplace!"
+  choice:
+    "Which example course do you want to look at?"
+    "Scenario One (undefined)":
+      jump section11
+    "Scenario Two (undefined)":
+      jump section14
 
+//SCENARIO ONE
 section11:
   jump section12
 
 section12:
-  jump section13
+  jump section16
 
+//SCENARIO TWO (more complex)
 section13:
   jump section14
 
@@ -237,7 +244,7 @@ section28:
   jump section29
 
 section29:
-  "point assesement"
+  "point assesement will be added once scenarios are done"
   jump section30
 
 section30:
