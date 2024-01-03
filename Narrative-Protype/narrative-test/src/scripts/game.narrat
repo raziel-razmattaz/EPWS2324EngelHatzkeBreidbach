@@ -62,18 +62,40 @@ section08:
   jump section09
 
 section09:
+  jump section10
+
+section10:
+  jump section11
+
+section11:
   "hehe"
+  jump section12
+
+section12:
+  "hehe"
+  jump section13
+
+section13:
+  "hehe"
+  jump section14
+
+section14:
+  jump section15
+
+section15:
+  jump section16
 
 section16:
   "Now, to finish the topic off, we’ll get started with a short quiz section!"
   if (< $data.points 5):
-    "few points"
+    jump section17
   else:
-    "much point"
+    jump section23
 
+//EASY PATH
 section17:
   choice:
-    "Which of the following is not a support level for individuals with ASD?"
+    "Q1: Which of the following is not a support level for individuals with ASD?"
     "Level 1":
       set data.answerQ17 false
       jump section18
@@ -96,7 +118,7 @@ section18:
 
 section19:
   choice:
-    "True or False: Are support levels solely based on an individual's intellectual abilities?"
+    "Q2: True or False: Are support levels solely based on an individual's intellectual abilities?"
     "True":
       set data.answerQ19 false
       jump section20
@@ -110,6 +132,95 @@ section20:
   else:
     "bad answer"
   jump section21
+
+section21:
+  choice:
+    "Q3: Which support level would most likely describe an individual with ASD who requires a moderate amount of support across most environments?"
+    "Level 1":
+      set data.answerQ21 false
+      jump section22
+    "Level 2":
+      set data.answerQ21 true
+      jump section22
+    "Level 3":
+      set data.answerQ21 false
+      jump section22
+
+section22:
+  if (== $data.answerQ21 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section28
+
+//HARD PATH
+section23:
+  "Since you did pretty well so far, we’ll give you some harder questions!"
+  choice:
+    "Q1: Which of the following would <em>not</em> be considered when determining an autistic persons’ support level?"
+      "Communication Skills":
+        set data.answerQ23 false
+        jump section24
+      "Language Skills":
+        set data.answerQ23 false
+        jump section24
+      "Sensory Sensitivities":
+        set data.answerQ23 false
+        jump section24
+      "Age of Diagnosis":
+        set data.answerQ23 true
+        jump section24
+
+section24:
+  if (== $data.answerQ23 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section25
+
+section25:
+  choice:
+    "Q2: What is the primary goal of providing support based on levels in ASD?"
+      "To cure ASD completely":
+        set data.answerQ25 false
+        jump section26
+      "To minimize or eliminate challenging behaviors":
+        set data.answerQ25 false
+        jump section26
+      "To promote individual strengths and adaptive skills":
+        set data.answerQ25 true
+        jump section26
+      "To make individuals with ASD appear 'typical'":
+        set data.answerQ25 false
+        jump section26
+
+section26:
+  if (== $data.answerQ23 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section27
+
+section27:
+  choice:
+    "Q3: True or False: Support levels in ASD are static and do not change over time."
+    "True":
+      set data.answerQ27 false
+      jump section28
+    "False":
+      set data.answerQ17 true
+      jump section28   
+
+section28:
+  if (== $data.answerQ27 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section29
+
+section29:
+  "point assesement"
+  jump section30
 
 section30:
   "Level of Support Needs is just one way to categorize the autistic experience. Another way of looking at the situation is personal strengths and weaknesses. Many autistic individuals have strong variances in different fields. They might be struggling with language production, but be very good at memorization for example."
