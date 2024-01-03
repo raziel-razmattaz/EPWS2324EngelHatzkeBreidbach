@@ -44,13 +44,16 @@ section05:
   jump section04
 
 section06:
-  "nothing yet"
+  "A person with level 2 support needs is likely to engage in repetitive behaviours and have restricted interests. Switching between multiple tasks very quickly can also be difficult."
+  "Creating a supportive environment that accommodates their specific requirements can significantly enhance both of your working experiences. Effective communication is crucial, emphasizing clear and concise language, while avoiding figurative speech, as your colleague may struggle with understanding these forms of communication. Developing a routine for your shared work day can provide structure and predictability, fostering a positive, productive enviroment."
   set data.lv2_complete true
   "*button: Return to section 4*"
   jump section04
 
 section07:
-  "nothing yet"
+  "Being autistic with level 3 support needs can present unique challenges. These can include, but aren’t limited to, struggling with learning, holding conversations and motorics."
+  "Furthermore, individuals with level 3 support needs are often isolated, due to struggling with social interactions and requiring extra assistance to navigate social dynamics."
+  "But even so, they are people just like you and might want to exercise their autonomy and independence by holding a job. You can play a crucial role by promoting understanding, patience, and empathy.  With the right support, a colleague with level 3 support needs can contribute their talents and skills to the workplace, enriching both of your overall work experiences."
   set data.lv3_complete true
   "*button: Return to section 4*"
   jump section04
@@ -62,7 +65,10 @@ section08:
   jump section09
 
 section09:
-  "here"
+  "Next let’s look at some concrete examples of accomodations based on an individual’s support level you may encounter at your job."
+  "For level 1: Your collegue might use quieter, more secluded workspace. While they might work in an isolated space, that does not mean they wish to be isolated otherwise as well. Additionally, make sure to be clear in your communication and don’t just allude to things, as they might not pick up on what you’re really trying to say."
+  "For level 2: Developing a consistent routive can be a massive help in working together smoothly. Make sure to respect your collegues' sensory sensitivities and wishes in regards to personal space as well. Your collegue might engage in small rituals, like doing a certain process the exact same way every time. This may seem strange to you, but can be an important way for them to reduce anxiety on the job."
+  "For level 3: Take care to communicate clearly and directly, offering visual aids or written instructions when necessary. Doing your part in developing a structured and predictable work environment can also massively contribute to your collegues' integration within the team. They might also be accompanied by a job coach, who assists them in their daily worklife. If they do, make sure not to ignore them in favour of the coach who might seem more 'approachable' to you, unless they specifically request for it."
   jump section10
 
 section10:
