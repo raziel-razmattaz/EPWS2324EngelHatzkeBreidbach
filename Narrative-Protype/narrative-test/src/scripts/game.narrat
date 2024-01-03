@@ -1,4 +1,121 @@
 main:
-  "Hello world"
-  set_screen game 0 slide-top 1000
-  "(This game is empty so nothing will happen past this point. Open game.narrat to start editing)"
+  set data.points 0
+  jump section01
+
+section01:
+  "Hello, I'm Helper Cat! I'm here to guide you through the Unit: Different Support Levels in ASD."
+  "*play avatar wave animation*"
+  "First off, please enter your name:"
+  "*name enter field*"
+  "Hello there $user-name! In today's lesson I will guide you through what support needs are in the context auf Autism Spectrum Disorder, how they can be categorized in levels and how the concept can even be related to you. Of course we will also be going through some example scenarios."
+  "Button: Continue to Section 2"
+  jump section02
+
+section02:
+  "Autism Spectrum Disorder—or ASD—is a neurodevelopmental disorder that can manifest itself in a way that affects individuals’ social skills, communication abilities, and behavior patterns. ASD expresses itself on a spectrum, meaning that the severity and symptoms can widely vary from individual to individual. Each person with ASD falls somewhere differently on this spectrum and every case is unique in its own way. Many people with ASD possess unique strengths and abilities, and appropriate support can greatly enhance their performance in the workplace."
+  "Your collegues with ASD may often struggle with social interactions, exhibiting challenges in developing and maintaining relationships. They may also have difficulty with verbal and non-verbal communication, such as understanding or using expressive language, gestures, or facial expressions. This is why it is important to learn how to best work together!"
+  "Button: Continue to Section 3"
+  jump section03
+
+section03:
+  "One way to categorize the vast differences in experience with ASD, is to use the “Support Level System”. Support levels in the context of ASD refer to a classification system that rates the level of assistance required for individuals with ASD to navigate successfully through various aspects of their life."
+  "There are three support levels: Level 1 (requiring a small amount of support), Level 2 (requiring a large amount of support), and Level 3 (requiring a very large amount of support). These support levels are determined based on difficulties in social communication, restricted behaviors, and overall level of (in)dependence. Knowing about support levels allows you to better understand and provide appropriate accommodations for your collegues with ASD."
+  "Button: Continue to Section 4"
+  jump section04
+
+section04:
+  if (&& $data.lv1_complete (&& data.lv2_complete data.lv3_complete))
+    jump section08
+  choice:
+    "Let’s look at each Support Level in more detail:"
+    "Level 1":
+      jump section05
+    "Level 2":
+      jump section06
+    "Level 3":
+      jump section07
+
+section05:
+  "A person with support level 1 needs often has a relatively mild difficulty with social interactions and communication, which can sometimes result in misunderstandings or difficulties connecting with their colleagues. Most of their struggles in the workplace will likely stem from sensory overstimulation or lack of clear communication."
+  "Most autistic people you will meet among your collegues will probably fall under this category."
+  "With appropriate workplace accommodations and understanding from you, individuals with level 1 support needs can thrive and integrate easily in the workplace, using strengths like innovative problem-solving, a blunt honesty and fresh, new perspectives to drive productivity. By helping to build an inclusive and supportive environment for your colleague, you can build stronger relationships, bridge communication gaps, and make the workplace a friendlier space for everyone."
+  set data.lv1_complete true
+  "*button: Return to section 4*"
+  jump section04
+
+section06:
+  "nothing yet"
+  set data.lv2_complete true
+  "*button: Return to section 4*"
+  jump section04
+
+section07:
+  "nothing yet"
+  set data.lv3_complete true
+  "*button: Return to section 4*"
+  jump section04
+
+section08:
+  "Looks like you've got a grasp on the basics!"
+  "Accomodations and support at the workplace allow each individual to be a content and productive worker. I’m sure you also need some things to help you in the workspace, be it your daily coffee, some quiet time, or some rejuvenating chats at the water-cooler. Some people simply need a bit more help than others."
+  "*button: Continue to Section 9*"
+  jump section09
+
+section09:
+  "hehe"
+
+section16:
+  "Now, to finish the topic off, we’ll get started with a short quiz section!"
+  if (< $data.points 5):
+    "few points"
+  else:
+    "much point"
+
+section17:
+  choice:
+    "Which of the following is not a support level for individuals with ASD?"
+    "Level 1":
+      set data.answerQ17 false
+      jump section18
+    "Level 2":
+      set data.answerQ17 false
+      jump section18
+    "Level 3":
+      set data.answerQ17 false
+      jump section18
+    "Level 4":
+      set data.answerQ17 true
+      jump section18
+
+section18:
+  if (== $data.answerQ17 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section19
+
+section19:
+  choice:
+    "True or False: Are support levels solely based on an individual's intellectual abilities?"
+    "True":
+      set data.answerQ19 false
+      jump section20
+    "False":
+      set data.answerQ19 true
+      jump section20
+
+section20:
+  if (== $data.answerQ18 true):
+    "good answer"
+  else:
+    "bad answer"
+  jump section21
+
+section30:
+  "Level of Support Needs is just one way to categorize the autistic experience. Another way of looking at the situation is personal strengths and weaknesses. Many autistic individuals have strong variances in different fields. They might be struggling with language production, but be very good at memorization for example."
+  "Of course this is true for the entire human experience, in some way. If you think about your own strenghts and weaknesses, I'm sure you can identify several spectrums on which you'd place yourself at different points. Listening comprehension versus reading comprehension in a foreign language would be a classic example: most people are much better at reading than listening. Their abilities and struggles on these spectrums can vary greatly, even within the same person."
+  "Still, Support Levels are a helpfull shorthand for understanding and supporting each other."
+  "Most importantly, don't just assume someone can or cannot do something. If someone seems to be struggling with something offer help, but don't simply make uneducated guesses about your coworkers and barge in without consent!"
+  "That is all for this unit!"
+  "*play avatar wave animation*"
+  "Thank you for paying attention and see you next time!"
