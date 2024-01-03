@@ -62,21 +62,20 @@ section08:
   jump section09
 
 section09:
+  "here"
   jump section10
 
 section10:
+  "here"
   jump section11
 
 section11:
-  "hehe"
   jump section12
 
 section12:
-  "hehe"
   jump section13
 
 section13:
-  "hehe"
   jump section14
 
 section14:
@@ -111,9 +110,12 @@ section17:
 
 section18:
   if (== $data.answerQ17 true):
-    "good answer"
+    add data.points 1
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -3 //since getting this wrong means you haven't been paying attention At All
+    "Unfortunately that's wrong :("
+    "The Support Level system uses the Levels 1, 2 and 3. Level 4 does not exist."
   jump section19
 
 section19:
@@ -128,9 +130,12 @@ section19:
 
 section20:
   if (== $data.answerQ18 true):
-    "good answer"
+    add data.points 1
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -1
+    "Unfortunately that's wrong :("
+  "Support Levels are based on a multitude of axis, which includes intellectual abilities among many. Other factors include language capability, social skills, sensory sensitivity, restriction in behaviour and so on."
   jump section21
 
 section21:
@@ -148,9 +153,12 @@ section21:
 
 section22:
   if (== $data.answerQ21 true):
-    "good answer"
+    add data.points 1
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -1
+    "Unfortunately that's wrong :("
+  "Someone who requires a moderate level of support across most enviroments, will struggle to live their life to the fullest extent without consistent support. They will require more supervision and care than someone with level 1 support needs. Still they regain more independence than those with level 3 support needs, and would be able to work without external help in certain enviroments."
   jump section28
 
 //HARD PATH
@@ -158,47 +166,54 @@ section23:
   "Since you did pretty well so far, we’ll give you some harder questions!"
   choice:
     "Q1: Which of the following would <em>not</em> be considered when determining an autistic persons’ support level?"
-      "Communication Skills":
-        set data.answerQ23 false
-        jump section24
-      "Language Skills":
-        set data.answerQ23 false
-        jump section24
-      "Sensory Sensitivities":
-        set data.answerQ23 false
-        jump section24
-      "Age of Diagnosis":
-        set data.answerQ23 true
-        jump section24
+    "Communication Skills":
+      set data.answerQ23 false
+      jump section24
+    "Language Skills":
+      set data.answerQ23 false
+      jump section24
+    "Sensory Sensitivities":
+      set data.answerQ23 false
+      jump section24
+    "Age of Diagnosis":
+      set data.answerQ23 true
+      jump section24
 
 section24:
   if (== $data.answerQ23 true):
-    "good answer"
+    add data.points 2
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -2
+    "Unfortunately that's wrong :("
+  "Some autistic people are diagnosed later in life than others, some even only in adulthood. This does not mean however that someone who is diagnosed later in life would automatically have lower support needs, or someone diagnosed early higher support needs. Autism is difficult to diagnose, and often comes with comorbidties like ADHD which makes diagnosis diffiuclt. Furthermore, childhood trauma can impact how much someone struggles with their autistic symptoms when growing up, or even cause misdiagnosis until much later in life."
+  "If a colleague talks about how they were diagnosed well out of early childhood (as is typical), this is not a sign that they don't need substantial support because 'they could manage before'. Please be mindful about what you assume about those around you."
   jump section25
 
 section25:
   choice:
     "Q2: What is the primary goal of providing support based on levels in ASD?"
-      "To cure ASD completely":
-        set data.answerQ25 false
-        jump section26
-      "To minimize or eliminate challenging behaviors":
-        set data.answerQ25 false
-        jump section26
-      "To promote individual strengths and adaptive skills":
-        set data.answerQ25 true
-        jump section26
-      "To make individuals with ASD appear 'typical'":
-        set data.answerQ25 false
-        jump section26
+    "To cure ASD completely":
+      set data.answerQ25 false
+      jump section26
+    "To minimize or eliminate challenging behaviors":
+      set data.answerQ25 false
+      jump section26
+    "To promote individual strengths and adaptive skills":
+      set data.answerQ25 true
+      jump section26
+    "To make individuals with ASD appear 'typical'":
+      set data.answerQ25 false
+      jump section26
 
 section26:
   if (== $data.answerQ23 true):
-    "good answer"
+    add data.points 2
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -3
+    "Unfortunately that's wrong :("
+  "The support level system is designed to allow for easier understanding and help from others. It can also allow for a better understanding of an autistic persons' own limits and capabilities."
   jump section27
 
 section27:
@@ -213,9 +228,12 @@ section27:
 
 section28:
   if (== $data.answerQ27 true):
-    "good answer"
+    add data.points 1
+    "That's correct!"
   else:
-    "bad answer"
+    add data.points -1
+    "Unfortunately that's wrong :("
+  "Support Levels can change over a longer period of time, for a variety of reasons. A classic example is someone gaining more independence as they grow into adulthood, and learn to manage certain difficulties themselves."
   jump section29
 
 section29:
