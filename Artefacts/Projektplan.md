@@ -51,7 +51,6 @@ Der Projektplan legt aus, wann welche Aufgaben zu erledigen sind. In Klammern wi
 - Genaue Ausarbeitung der Social Computing Aspekte (Gamification, Ethics,...)
 - Modellierung der Anwendungslogik, z. B. durch begründete Auswahl von Algorithmen und (Pseudo)code
 - Präsentation für den 3. Audit fertigstellen
-- Vorbereitung des Posterslams
 - Projektplan für den 4. Audit festlegen
 
 ### 4. Audit
