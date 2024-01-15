@@ -27,63 +27,63 @@ Zu 4. Durch catch wird überprüft, ob erfolgreich gespeichert wurde. Ist dies n
 
 
 
-## Dokumentation POC Speicherung auswahlbeschränkter *Flavour Choices* des Nutzenden
-### Beschreibung:
-Um das Lernerlebnis attraktiver und persönlicher zu gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Hierfür können aus werden die Antworten jeweils als einzelne Variablen in den localStorage gelegt. 
-
-### Exit-Kriterien:
-Die Nutzende Person hat erfolgreich eine Auswahl getroffen und die Auswahl wird unter der korrekten Variable erfolgreich gespeichert.
-
-### Fail-Kriterien:
-
-1.	Die Eingabe des Nutzenden unvollständig/nicht erfolgt.
-2.	Das Speichern der Daten schlägt fehl.
-
-### Fallback:
-
-Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
-
-Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und sie wird dazu aufgefordert den Vorgang zu wiederholen.
+# Code
 
 
 
-## Dokumentation POC Speicherung von Freitext *Flavour Choices* des Nutzenden
-### Beschreibung:
+```javascript
+// Initialisierung und Überprüfung des localStorage. Fail Kriterium 1 und 2
+function init() {
+    if (!checkLocalStorage()) {
+        alert('localStorage ist in Ihrem Browser nicht verfügbar oder aufgrund von Sicherheitseinstellungen nicht nutzbar. Bitte überprüfen Sie Ihre Browser-Einstellungen.');
+        return;
+    }
 
-Um das Lernerlebnis attraktiver und persönlicher zu gestalten, werden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um im späteren Verlauf darauf Bezug nehmen zu können. Um sie später weiter verwenden zu können, besitzen die Eingabefelder Eingabekontrollen bzw. Vorgaben, wie die Eingabe auszusehen hat. Die eingegebenen Antworten werden dann jeweils unter einzelne Variablen in den localStorage gelegt. 
+    try {
+        localStorage.setItem('test', 'testValue');
+        localStorage.removeItem('test');
+    } catch (e) {
+//Fail Kriterium 3
+        if (e.name === 'QuotaExceededError') {
+            alert('Der Speicherplatz für localStorage ist voll. Bitte räumen Sie Speicher frei.');
+        } else {
+            alert('Ein Fehler ist aufgetreten: ' + e.message);
+        }
+    }
+}
 
-### Exit-Kriterien:
+// Funktion, um den Speicherpunkt zu setzen und zu überprüfen, ob er erfolgreich gespeichert wurde
+function setSavePoint(savePointId) {
+    try {
+        localStorage.setItem('lastSavePoint', savePointId);
+        if (localStorage.getItem('lastSavePoint') === savePointId) {
+            console.log('Speicherpunkt gesetzt: ' + savePointId);
+        } else {
+            throw new Error('Speicherpunkt konnte nicht gesetzt werden.');
+        }
+//Fail Kriterium 4
+    } catch (e) {
+        alert('Fehler beim Speichern des Speicherpunkts: ' + e.message + '. Bitte versuchen Sie es erneut.');
+    }
+}
 
-Die Nutzende Person hat eine korrekte Eingabe getätigt und die Auswahl wird unter der korrekten Variable erfolgreich gespeichert.
+// Funktion, um den letzten Speicherpunkt abzurufen
+function getLastSavePoint() {
+    const lastSavePoint = localStorage.getItem('lastSavePoint');
+    if (lastSavePoint) {
+        console.log('Letzter Speicherpunkt: ' + lastSavePoint);
+        return lastSavePoint;
+    } else {
+        console.log('Kein Speicherpunkt gefunden.');
+        return null;
+    }
+}
 
-### Fail-Kriterien:
+// Initialisierung bei Laden der Seite
+init();
 
-1.	Die Eingabe des Nutzenden unvollständig oder inkorrekt.
-2.	Das Speichern der Daten schlägt fehl.
+// Beispiel: Speicherpunkt setzen
+setSavePoint('S-123');
 
-### Fallback:
-
-Zu 1.: Die nutzende Person wird aufgefordert die Eingabe zu überprüfen und zu verbessern.
-
-Zu 2.: Der nutzenden Person wird eine Fehlermeldung ausgegeben und sie wird dazu aufgefordert den Vorgang zu wiederholen.
-
-
-
-## Dokumentation POC Nutzung *Flavour Choices* des Nutzenden
-### Beschreibung:
-
-Um das Lernerlebnis attraktiver und persönlicher zu gestalten, wurden einige Angaben des Nutzenden gespeichert (keine Risiko-behafteten Informationen) um diese nun in das Lernerlebnis einzuarbeiten. Hierfür werden die entsprechend erforderlichen Daten Variablen aus dem localStorage abgerufen.
-### Exit-Kriterien:
-
-Die richtige Variable wird abgerufen und korrekt in das Lernerlebnis eingebaut.
-
-### Fail-Kriterien:
-
-1.	Das Abrufen der Daten schlägt fehl.
-2.	Die Daten haben nicht die entsprechende Form, um in dem Kontext korrekt eingesetzt werden zu können. 
-
-### Fallback:
-
-Zu 1.:  Es wird eine generische Lernerfahrung eingesetzt.
-
-Zu 2.: Es wird eine generische Lernerfahrung eingesetzt. Alternativ: Nutzung von AI um dynamisch Anpassungen ausführen zu können.
+// Beispiel: Letzten Speicherpunkt abrufen
+getLastSavePoint();
