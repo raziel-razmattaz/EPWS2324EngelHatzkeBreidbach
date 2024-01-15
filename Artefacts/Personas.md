@@ -55,12 +55,17 @@ Heike genießt die immer wieder neuen Herausforderungen bei ihrer Arbeit, die du
 
 <img src="michaelSccott.jpg" alt="Stock Photo eines weißen Office Managers in einer generischen Büro-Umgebung" width="240px"/>
 
-* Name: Markus Steinbach
-* Alter: 42
-* Interessen: Wandern, Jazzmusik, Schach spielen
-* Ausbildung: Master in Betriebswirtschaft
-* Beruf: Teamleiter in der IT-Abteilung einer mittelständischen Firma
-* Werte: Teamarbeit, Effizienz, Respekt
+*Name*: Markus Steinbach
+
+*Alter*: 42
+
+*Interessen*: Wandern, Jazzmusik, Schach spielen
+
+*Ausbildung*: Master in Betriebswirtschaft
+  
+*Beruf*: Teamleiter in der IT-Abteilung einer mittelständischen Firma
+  
+*Werte*: Teamarbeit, Effizienz, Respekt
 
 *Kontakt mit dem Thema ASD*: Hat bisher wenig direkten Kontakt mit Menschen mit ASD gehabt und besitzt nur oberflächliches Wissen über das Thema.
 
