@@ -39,3 +39,11 @@ Jones, D. R., DeBrabander, K. M., & Sasson, N. J. (2021). [Effects of autism acc
 ### Diskrimination am Arbeitsplatz
 
 Okechukwu, C. A., Souza, K., Davis, K. D., & De Castro, A. B. (2014). [Discrimination, harassment, abuse, and bullying in the workplace: contribution of workplace injustice to occupational health disparities.](https://www.semanticscholar.org/paper/Discrimination%2C-harassment%2C-abuse%2C-and-bullying-in-Okechukwu-Souza/6b6c1412eedb1afb5187e957d93181c8f43515b0) American journal of industrial medicine, 57(5), 573-586.
+
+---
+
+### Social Computing 
+
+- Ali-Hassan, H., Nevo, D., Kim, H. M., & Perelgut, S. G. (2011). [Organizational Social Computing and Employee Job Performance: The Knowledge Access Route.](https://ieeexplore.ieee.org/document/5718757) 2011 44th Hawaii International Conference on System Sciences, Seiten 1-10
+- V. Z. Vanduhe, M. Nat and H. F. Hasan, "[Continuance Intentions to Use Gamification for Training in Higher Education: Integrating the Technology Acceptance Model (TAM), Social Motivation, and Task Technology Fit (TTF)](https://ieeexplore.ieee.org/document/8957115)" in IEEE Access, vol. 8, pp. 21473-21484, 2020, doi: 10.1109/ACCESS.2020.2966179
+- Kim, J. G., Kim, T., Kim, S.-I., Jang, S.-y., Lee, E. B. (S.), Yoo, H.-J., Han, K., & Hong, H. (2022). [The Workplace Playbook VR: Exploring the Design Space of Virtual Reality to Foster Understanding of and Support for Autistic People.](https://dl.acm.org/doi/10.1145/3555082) Proceedings of the ACM on Human-Computer Interaction, 6, 1-24
