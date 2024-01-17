@@ -79,7 +79,7 @@ Unser Ziel könnte es werden, mit VR-Simulationen nicht-autistische Mitarbeiter 
 
 - Ali-Hassan, H., Nevo, D., Kim, H. M., & Perelgut, S. G. (2011). Organizational Social Computing and Employee Job Performance: The Knowledge Access Route. 2011 44th Hawaii International Conference on System Sciences, Seiten 1-10
 
-- Vanduhe, V. Z., Nat, M., & Hasan, H. (2020). Vanduhe, V. Z., Nat, M., & Hasan, H. (2020).
+- V. Z. Vanduhe, M. Nat and H. F. Hasan, "Continuance Intentions to Use Gamification for Training in Higher Education: Integrating the Technology Acceptance Model (TAM), Social Motivation, and Task Technology Fit (TTF)," in IEEE Access, vol. 8, pp. 21473-21484, 2020, doi: 10.1109/ACCESS.2020.2966179.
 
 - Kim, J. G., Kim, T., Kim, S.-I., Jang, S.-y., Lee, E. B. (S.), Yoo, H.-J., Han, K., & Hong, H. (2022). The Workplace Playbook VR: Exploring the Design Space of Virtual Reality to Foster Understanding of and Support for Autistic People. Proceedings of the ACM on Human-Computer Interaction, 6, 1-24
 
