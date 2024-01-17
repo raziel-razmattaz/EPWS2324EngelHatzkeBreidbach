@@ -14,12 +14,11 @@ Um diese Aspekte in unser Projekt zu integrieren, werden wir folgende Strategien
 
 
 
-1. **Integration von Gamification in die Schulung:** Vanduhe et al. (2020) integrieren Gamification in die Mitarbeiterschulung, indem sie das Technologieakzeptanzmodell (TAM) - ein Modell, das die Akzeptanz von Technologie basierend auf ihrer wahrgenommenen Nützlichkeit und Benutzerfreundlichkeit bewertet - mit sozialen Motivationen und der Passung der Technologieaufgabe (TTF), also der Eignung einer Technologie für spezifische Aufgaben kombinieren. Sie zeigen, dass die wahrgenommene Nützlichkeit und Einstellungen entscheidend für die Fortführungsabsichten sind, das System für die Schulung zu verwenden. Ausfürliche Beschreibung des Schrittes: [Gamification](Gamification.md)				
+1. **Integration von Gamification in die Schulung:** Vanduhe et al. (2020) integrieren Gamification in die Mitarbeiterschulung, indem sie das Technologieakzeptanzmodell (TAM) - ein Modell, das die Akzeptanz von Technologie basierend auf ihrer wahrgenommenen Nützlichkeit und Benutzerfreundlichkeit bewertet - mit sozialen Motivationen und der Passung der Technologieaufgabe (TTF), also der Eignung einer Technologie für spezifische Aufgaben kombinieren. Sie zeigen, dass die wahrgenommene Nützlichkeit und Einstellungen entscheidend für die Fortführungsabsichten sind, das System für die Schulung zu verwenden. Ausfürliche Beschreibung der Gamification Aspekte: [Gamification](Gamification.md)				
 
 2. **Adaptive Lernsysteme:** Wir werden adaptive Lernplattformen entwickeln, die den Lernfortschritt jedes Teilnehmers verfolgen und anpassen. Die Erfahrungspunktleiste wird weiterhin als Motivationswerkzeug dienen und sich basierend auf individuellen Leistungen füllen.										
 
 3. **Storytelling**: Wir planen die Erstellung von Geschichten und Beispielszenarien von Mitarbeitern, die ihre Erfahrungen im Umgang mit Autismus teilen. Diese Geschichten werden in interaktiven Modulen präsentiert, um das Verständnis und die Empathie unter den Mitarbeitern zu fördern.
-4. **Integration eines Avatars**: 
 
 
 
