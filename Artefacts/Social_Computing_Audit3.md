@@ -1,4 +1,4 @@
-Social Computing
+# Social Computing
 
 
 
@@ -6,7 +6,7 @@ Social Computing ist ein interdisziplinäres Feld, das die Entwicklung und unter
 
 
 
-Integrationsstrategien
+## Integrationsstrategien
 
 
 
@@ -40,7 +40,7 @@ Storytelling: Wir planen die Erstellung von Geschichten und Erzählungen von Mit
 
 
 
-Weiterentwicklungsmöglichkeiten	
+## Weiterentwicklungsmöglichkeiten	
 
 				
 
