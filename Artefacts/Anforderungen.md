@@ -30,14 +30,11 @@
 #### Muster: Teil X des Systems muss bestimmten Qualitätsanforderungen entsprechen.
 #### Muster: Das System muss so konzipiert sein, sodass es [X erfüllt/für spezifische Benutzer benutzbar ist].
 1. Verwendete Informationen müssen immer auf einen fundierten, wissenschaftlich-unterstützten Forschungstand zurückzuführen sein.
-1. Das System muss so gestalten sein, dass die Interaktionsumgebung von Nutzern mit einer starken Hörschwäche betrieben werden kann.
-1. Das System muss so gestaltet sein, dass die Nutzung ohne schnelle oder körperlich anstrengende Aktionen betrieben werden kann.
-1. Das System muss so gestalten sein, dass die Interaktionsumgebung von Nutzern mit einer starken Sehschwäche betrieben werden kann.
-1. Verwendete Graphiken sollten mit einer farbenblindfreundlichen Farbgestaltung kolorierbar sein.
-1. Die verwendeten Schriftarten sollten für Nutzer mit Legasthenie möglichst einfach zu lesen sein.
+1. Das System sollte so konzipiert sein, dass sie der BITV 2.0 (Barrierrefreie-Informationstechnik-Verordnung) entspricht.
+1. Das System muss so konzipiert sein, dass es nach BITV 2.0 die DIN EN ISO 9241 Norm (Ergonomie der Mensch-System-Interaktion) erfüllt.
+1. Das System muss so konzipiert sein, dass es nach BITV 2.0 die DIN EN ISO 14915 Norm (Software-Ergonomie für Multimedia-Benutzerschnittstellen) erfüllt.
+1. Das System sollte so konzipiert sein, dass nach BITV 2.0 Informationen in Deutscher Gebärdensprache und in Leichter Sprache bereitstellt.
 1. Die Interaktionsumgebung sollte für Nutzer ohne besondere Vorerfahrung einfach erlernbar sein.
-1. Das System sollte so konzipiert sein, dass die Schriftgröße jederzeit änderbar ist.
-(Das System muss so konzipiert sein, dass es mindestens nach den vorgeschriebenen Richtlinien barrierefrei ist.)
 ---
 ### Organisatorische Anforderungen
 ---
