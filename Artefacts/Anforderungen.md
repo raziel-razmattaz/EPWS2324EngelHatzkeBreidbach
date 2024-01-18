@@ -3,27 +3,115 @@
 ### Funktionale Anforderungen
 ---
 #### Muster: Das System [muss/sollte/kann] dem spezifischen Benutzer [die Möglichkeit bieten X zu tun/ein bestimmtes Resultat darbieten].
-1. Das System muss dem Benutzer die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
-2. Das System muss dem Beutzer die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen, um Diskriminierung zu vermeiden.
-3. Das System sollte dem Benutzer die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
-4. Das System muss dem Benutzer ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
-5. Das System muss dem Arbeitgeber/Vorgesetzten die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
-6. Das System sollte dem Benutzer die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
-7. Das System muss dem Beutzer die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
-8. Das System muss dem Benutzer die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
-9. Das System sollte dem Benutzer die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
-10. Das System muss einer Person ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
-11. Das System muss einer Person ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
-12. Das System sollte dem Benutzer die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
-13. Das System sollte dem Benutzer Fortschitte so anzeigen, sodass diese*r motiviert ist weiter zu lernen.
-14. Das System sollte dem Benutzer eine Überprüfung der Lernerfolge ermöglichen.
-15. Das System sollte dem Benutzer Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
-16. Das System sollte dem Arbeitgeber ein Bewusstsein für Führungsstrategien entwickeln, die die Integration von Personen mit ASD unterstützen.
-17. Das System sollte dem Benutzer beibrigen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
-18. Das System sollte dem Benutzer ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
-19. Das System sollte dem Benutzer ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
-20. tbd
+1. Das System muss dem Benutzenden die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss Vorgesetzten die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss Kund:innen die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss den Mitgliedern des Bertiebsrats die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss Kolleg:innen die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
    
+1. Das System muss dem Benutzenden die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen, um Diskriminierung zu vermeiden.
+   1. Das System muss Kolleg:innen die Möglichkeit bieten Bedürfnisse von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen, um Diskriminierung zu vermeiden.
+   1. Das System muss Vorgesetzten die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss Kund:innen die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss den Mitgliedern des Betriebsrates die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+   1. Das System muss Menschen mit ASD die Möglichkeit bieten Wissen zum Thema ASD zu erhalten, um Unwissen und Stereotypen zu reduzieren.
+      
+1. Das System sollte dem Benutzenden die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+   1. Das System sollte Kolleg:innen die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+   1. Das System sollte Vorgesetzen die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+   1. Das System sollte Kund:innen die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+   1. Das System sollte den Mitgliedern des Betriebsrates die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+   1. Das System sollte Menschen mit ASD die Möglichkeit bieten angemessene Umgangsweisen mit Menschen mit ASD zu erlernen/erproben, um positive soziale Interaktionen zu fördern.
+      
+1. Das System muss dem Benutzenden ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
+   1. Das System muss Kolleg:innen ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
+   1. Das System muss Vorgesetzten ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
+   1. Das System muss Kund:innen ein besseres Verständnis für die Kolleg:innen/Kontaktpersonen mit ASD vermitteln.
+   1. Das System muss den Mitgliedern des Betriebsrates ein besseres Verständnis für die Kolleg:innen mit ASD vermitteln.
+      
+1. Das System muss dem Benutzenden die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
+   1. Das System muss Vorgesetzten die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
+   1. Das System muss Arbeitgebern/Firmen die rechtlichen Gegebenheiten im Bezug Auf Menschen mit ASD aufzeigen.
+   
+1. Das System sollte dem Benutzenden die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+   1. Das System sollte Kolleg:innen die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+   1. Das System sollte Vorgesetzten die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+   1. Das System sollte Kund:innen die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+   1. Das System sollte den Mitgliedern des Betriebsrates die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+   1. Das System sollte Menschen mit ASD die Möglichkeit bieten eine intrinsische Motivation für das Lernen der Inhalte aufzubringen.
+      
+1. Das System muss dem Benutzenden die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+   1. Das System muss Kolleg:innen die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+   1. Das System muss Vorgesetzten die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+   1. Das System muss Kund:innen die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+   1. Das System muss den Mitgliedern des Betriebsrates die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+   1. Das System muss Menschen mit ASD die Möglichkeit bieten die Stärken von Menschen mit ASD (va im Arbeitsbereich) kennen zu lernen.
+      
+1. Das System muss dem Benutzenden die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss Kolleg:innen die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss Vorgesetzten die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss Vorgesetzten die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss Kund:innen die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss den Menschen des Betriebsrates die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+   1. Das System muss Menschen mit ASD die besonderen Herausforderungen, die bei bei den Interaktionen von Menschen mit ASD entstehen können, darstellen.
+      
+1. Das System sollte dem Benutzenden die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+   1. Das System sollte Kolleg:innen die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+   1. Das System sollte Vorgesetzten die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+   1. Das System sollte Kund:innen die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+   1. Das System sollte den Mitgliedern des Betriebsrates die Möglichkeit bieten die sensorischen Herausforderungen bei Menschen mit ASD verstehen zu können.
+      
+1. Das System muss einer Person ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+   1. Das System muss Kolleg:innen ohne ASD die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+   1. Das System muss Vorgestzten die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+   1. Das System muss Kund:innen die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+   1. Das System muss Mitgliedern des Betriebsrates die Möglichkeit bieten die Mimiken der Menschen mit ASD interpretieren zu können.
+      
+1. Das System sollte dem Benutzenden die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+   1. Das System sollte Kolleg:innen die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+   1. Das System sollte Vorgesetzten die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+   1. Das System sollte Kund:innen die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+   1. Das System sollte Mitgliedern des Betriebsrates die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+   1. Das System sollte Menschen mit ASD die Möglichkeit bieten einen Lernfortschritt im Bereichs ASD wahrnehmen zu können.
+      
+1. Das System sollte Benutzenden Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Kolleg:innen Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Vorgestzten Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Kund:innen Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Mitgliedern des Betriebsrates Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Kolleg:innen Fortschitte so anzeigen, sodass diese motiviert sind weiter zu lernen.
+   1. Das System sollte Menschen mit ASD eine Überprüfung der Lernerfolge ermöglichen.
+      
+1. Das System sollte dem Benutzenden Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+   1. Das System sollte Kolleg:innen Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+   1. Das System sollte Vorgesetzten Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+   1. Das System sollte Kund:innen Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+   1. Das System sollte Mitgliedern des Betriebsrates Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+   1. Das System sollte Menschen mit ASD Feedback zur Richtigkeit der eigenen Lernerfolge ermöglichen.
+
+1. Das System sollte dem Benutzenden ein Bewusstsein für Führungsstrategien entwickeln, die die Integration von Personen mit ASD unterstützen.
+   1. Das System sollte dem Arbeitgeber ein Bewusstsein für Führungsstrategien entwickeln, die die Integration von Personen mit ASD unterstützen.
+   1. Das System sollte Vorgestzten ein Bewusstsein für Führungsstrategien entwickeln, die die Integration von Personen mit ASD unterstützen.
+   
+1. Das System sollte dem Benutzenden beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+   1. Das System sollte Kolleg:innen beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+   1. Das System sollte Vorgesetzten beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+   1. Das System sollte Kund:innen beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+   1. Das System sollte Mitgliedern des Betriebsrates beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+   1. Das System sollte Menschen mit ASD beibringen effektive Strategien zur Konfliktlösung entwickeln und anwenden zu können.
+      
+1. Das System sollte dem Benutzenden ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+   1. Das System sollte Kolleg:innen ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+   1. Das System sollte Vorgesetzten ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+   1. Das System sollte Mitgliedern des Betriebsrates ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+   1. Das System sollte Menschen mit ASD ein Gefühl der Mitwirkung und des Engagements für die Unternehmenskultur entwickeln zu können.
+      
+1. Das System sollte dem Benutzenden ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+   1. Das System sollte Kolleg:innen ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+   1. Das System sollte Vorgesetzten ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+   1. Das System sollte Kund:innen ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+   1. Das System sollte Mitgliedern des Betriebsrates ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben.
+   1. (Das System sollte Menschen mit ASD ermöglichen realitätsnahe Simulationen von ASD-spezifischen Situationen am Arbeitsplatz zu erleben, welche sich von ihren eigenen unterscheiden.)
 ---
 ### Qualitätsanforderungen
 ---
