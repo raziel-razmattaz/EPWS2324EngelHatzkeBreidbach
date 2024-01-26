@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,400,1,0');
+
+#content {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	width: 80%;
+   overflow: hidden;
+}
+
+#main-content {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+   padding: 64px 32px;
+}
+
+#main-content h2 {
+   font-weight: bold;
+   font-size: 20px;
+}
+
+#main-content p {
+   width: 556px;
+}
