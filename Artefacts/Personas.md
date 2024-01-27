@@ -50,7 +50,8 @@ Heike genießt die immer wieder neuen Herausforderungen bei ihrer Arbeit, die du
 
 *Persönliches Szenario*: Carla hat einen neuen Kollegen, Benjamin. Benjamin ist Autist mit geringem Unterstützungsbedarf (Level 1 Support Needs). Carla ist sich nicht sicher, wie er autistisch sein kann, denn er ist so anders als ihre Nichte und scheint sich relativ gut zurechtzufinden. Sie denkt, dass seine Anfragen nach Unterstützung (wie zum Beispiel ein ruhiger, separater Arbeitsplatz) etwas betrügerisch sind. Carla weiß, wie "echter Autismus" aussieht, und Benjamin tut offensichtlich nur so! Dadurch ist sie etwas bitter gegenüber ihm und macht sich hinter seinem Rücken mit ihren Kollegen über ihn lustig, was deren Verhalten gegenüber Benjamin ebenfalls negativ beeinflusst. Dies schafft eine schlechte Arbeitsumgebung für ihren neuen Kollegen.
 
-
+---------
+### Erstellte jedoch verworfene Persona aufgrund der Einschränkung der intendierten Nutzenden
 #### Themenbezug: Teamleiter mit wenig Erfahrung im Umgang mit ASD
 
 <img src="michaelSccott.jpg" alt="Stock Photo eines weißen Office Managers in einer generischen Büro-Umgebung" width="240px"/>
