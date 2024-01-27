@@ -122,7 +122,6 @@
 1. Das System muss so konzipiert sein, dass es nach BITV 2.0 die DIN EN ISO 9241 Norm (Ergonomie der Mensch-System-Interaktion) erfüllt.
 1. Das System muss so konzipiert sein, dass es nach BITV 2.0 die DIN EN ISO 14915 Norm (Software-Ergonomie für Multimedia-Benutzerschnittstellen) erfüllt.
 1. Das System sollte so konzipiert sein, dass nach BITV 2.0 Informationen in Deutscher Gebärdensprache und in Leichter Sprache bereitstellt.
-1. Die Interaktionsumgebung sollte für Nutzer ohne besondere Vorerfahrung einfach erlernbar sein.
 ---
 ### Organisatorische Anforderungen
 ---
