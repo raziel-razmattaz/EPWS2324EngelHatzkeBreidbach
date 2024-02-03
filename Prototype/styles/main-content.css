@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inder&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@40,400,1,0');
 
 #content {
@@ -24,4 +25,76 @@
 
 #main-content p {
    width: 556px;
+}
+
+button {
+	width: 84px;
+	height: 32px;
+	color: white;
+	background-color: #ffffff36;
+	border: 1px solid #fff;
+	transition: 0.3s;
+}
+
+button:hover {
+	color: black;
+	background-color: #F5A732;
+	border: none;
+	box-shadow: 4px 4px #00000035;
+	transition: 0s;
+}
+
+button:active {
+	box-shadow: 4px 0px #00000035;
+	transform: translateY(4px);
+}
+
+#section-continue {
+	display: grid;
+	column-gap: 32px;
+	row-gap: 22px;
+	grid-template-columns: auto auto;
+}
+
+#credit a {
+	font-size: 8px;
+	text-decoration: none;
+	color: #fff;
+}
+
+.section-continue-default::before {
+	font-family: 'Inter', sans-serif;
+	content: "--->";
+}
+
+.section-continue-custom {
+	width: 268px;
+}
+
+.section-image {
+	width: 460px;
+	height: 420px;
+	position: fixed;
+	left: 778px;
+	top: 64px;
+}
+
+.section-image img {
+	object-fit: cover;
+	width: inherit;
+	height: inherit;
+}
+
+#avatar {
+	width: 214px;
+	height: 264px;
+	position: fixed;
+	left: 720px;
+	top: 300px;
+}
+
+#avatar img {
+	object-fit: cover;
+	width: inherit;
+	height: inherit;
 }
