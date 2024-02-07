@@ -21,7 +21,16 @@
 #main-content h2 {
    font-weight: bold;
    font-size: 20px;
+   word-wrap: break-word; /* Stellt sicher, dass Wörter umgebrochen werden, um innerhalb des Containers zu bleiben */
+	overflow-wrap: break-word; /* Modernere Alternative zu word-wrap, tut im Wesentlichen dasselbe */
+	max-width: 50%; /* Stellt sicher, dass #section-content nicht breiter als sein Container wird */
+	width: auto; /* Erlaubt, dass sich die Breite des Containers an den Inhalt anpasst */
+	min-width: 0; /* Verhindert, dass der Container zu klein wird (kann je nach Bedarf angepasst werden) */
+	padding-bottom: 20px; /* Fügt 20px Padding am unteren Rand hinzu */
+
+   
 }
+
 
 #main-content p {
    width: 556px;
@@ -51,9 +60,13 @@ button:active {
 
 #section-continue {
 	display: grid;
+	max-width: 50%; /* Stellt sicher, dass #section-content nicht breiter als sein Container wird */
+	width: 250px; /* Erlaubt, dass sich die Breite des Containers an den Inhalt anpasst */
+  	min-width: 0; /* Verhindert, dass der Container zu kl*/
 	column-gap: 32px;
 	row-gap: 22px;
 	grid-template-columns: auto auto;
+	flex: 2;
 }
 
 #credit a {
@@ -68,8 +81,17 @@ button:active {
 }
 
 .section-continue-custom {
-	width: 268px;
+	max-width: 80%; /* Stellt sicher, dass #section-content nicht breiter als sein Container wird */
+	width: 200px; /* Erlaubt, dass sich die Breite des Containers an den Inhalt anpasst */
+  	min-width: 0; /* Verhindert, dass der Container zu kl*/
+	
 }
+@media (min-width: 0px) {
+	#section-continue-custom {
+	  max-width: 580px; /* Legt die maximale Breite auf 500px fest, woraufhin Zeilenumbrüche entstehen */
+	}
+  }
+
 
 .section-image {
 	width: 460px;
@@ -98,3 +120,19 @@ button:active {
 	width: inherit;
 	height: inherit;
 }
+  
+#section-content {
+	word-wrap: break-word; /* Stellt sicher, dass Wörter umgebrochen werden, um innerhalb des Containers zu bleiben */
+	overflow-wrap: break-word; /* Modernere Alternative zu word-wrap, tut im Wesentlichen dasselbe */
+	max-width: 100%; /* Stellt sicher, dass #section-content nicht breiter als sein Container wird */
+	width: auto; /* Erlaubt, dass sich die Breite des Containers an den Inhalt anpasst */
+	min-width: 0; /* Verhindert, dass der Container zu klein wird (kann je nach Bedarf angepasst werden) */
+	padding-bottom: 20px; /* Fügt 20px Padding am unteren Rand hinzu */
+}
+  
+  @media (min-width: 500px) {
+	#section-content {
+	  max-width: 580px; /* Legt die maximale Breite auf 500px fest, woraufhin Zeilenumbrüche entstehen */
+	}
+  }
+  

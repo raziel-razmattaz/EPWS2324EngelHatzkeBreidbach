@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../styles/main-content.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script defer src="../scripts/ui.js"></script>
+    <script defer src="/Prototype/learning-game/Sektionen/sections.json"></script>
   </head>
   <body>
     <!--Extended Overlay Menu-->
@@ -40,7 +41,7 @@
             <p>Q1: Which of the following would not be considered when determining an autistic persons’ support level?</p>
           </div>
           <div id="section-continue">
-            <button class="section-continue-default"></button> <!--"Empty" Button-->
+            <button class="section-continue-default" data-section="section02"></button> <!--"Empty" Button-->
             <br/>
             <!--use as replacement for Continue, if there's only a single choice!-->
             <button class="section-continue-custom">Test Text</button> <!--Include Text if there's a choice to be made!!-->
@@ -59,5 +60,6 @@
         </div>
       </div>
     </div>
+    <script defer src="/Prototype/scripts/sectionsNavigation.js" defer></script>
   </body>
 </html>
