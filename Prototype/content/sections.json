@@ -1,0 +1,414 @@
+{
+    "section01": {
+        "header": "Different Support Levels in ASD",
+        "content": "<p>Hello, I'm Helper Cat! I'm here to guide you through the Unit: Different Support Levels in ASD. First off, please enter your name:</p> <p>Hello there $user-name! In today's lesson I will guide you through what support needs are in the context auf Autism Spectrum Disorder, how they can be categorized in levels and how the concept can even be related to you. Of course we will also be going through some example scenarios.</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section02"
+            }
+        ]
+    },
+    "section02": {
+        "header": null,
+        "content": "<p>Autism Spectrum Disorder—or ASD—is a neurodevelopmental disorder that can manifest itself in a way that affects individuals’ social skills, communication abilities, and behavior patterns. ASD expresses itself on a spectrum, meaning that the severity and symptoms can widely vary from individual to individual. Each person with ASD falls somewhere differently on this spectrum and every case is unique in its own way. Many people with ASD possess unique strengths and abilities, and appropriate support can greatly enhance their performance in the workplace.</p> <p>Your collegues with ASD may often struggle with social interactions, exhibiting challenges in developing and maintaining relationships. They may also have difficulty with verbal and non-verbal communication, such as understanding or using expressive language, gestures, or facial expressions. This is why it is important to learn how to best work together!</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section03"
+            }
+        ]
+    },
+    "section03": {
+        "header": null,
+        "content": "<p>One way to categorize the vast differences in experience with ASD, is to use the “Support Level System”. Support levels in the context of ASD refer to a classification system that rates the level of assistance required for individuals with ASD to navigate successfully through various aspects of their life.</p> <p>There are three support levels: Level 1 (requiring a small amount of support), Level 2 (requiring a large amount of support), and Level 3 (requiring a very large amount of support). These support levels are determined based on difficulties in social communication, restricted behaviors, and overall level of (in)dependence. Knowing about support levels allows you to better understand and provide appropriate accommodations for your collegues with ASD.</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section04"
+            }
+        ]
+    },
+    "section04": {
+        "header": "Support Levels in Detail",
+        "content": "Let’s look at each Support Level in more detail",
+        "image": null,
+        "choices": [
+            {
+                "text": "Level 1",
+                "jump": "section05"
+            },
+            {
+                "text": "Level 2",
+                "jump": "section06"
+            },
+            {
+                "text": "Level 3",
+                "jump": "section07"
+            },
+            {
+                "text": null,
+                "jump": "section08"
+            }
+        ]
+    },
+    "section05": {
+        "header": null,
+        "content": "<p>A person with support level 1 needs often has a relatively mild difficulty with social interactions and communication, which can sometimes result in misunderstandings or difficulties connecting with their colleagues. Most of their struggles in the workplace will likely stem from sensory overstimulation or lack of clear communication.</p> <p>Most autistic people you will meet among your collegues will probably fall under this category.</p> <p>With appropriate workplace accommodations and understanding from you, individuals with level 1 support needs can thrive and integrate easily in the workplace, using strengths like innovative problem-solving, a blunt honesty and fresh, new perspectives to drive productivity. By helping to build an inclusive and supportive environment for your colleague, you can build stronger relationships, bridge communication gaps, and make the workplace a friendlier space for everyone.</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section04"
+            }
+        ]
+    },
+    "section06": {
+        "header": null,
+        "content": "<p>A person with level 2 support needs is likely to engage in repetitive behaviours and have restricted interests. Switching between multiple tasks very quickly can also be difficult.</p> <p>Creating a supportive environment that accommodates their specific requirements can significantly enhance both of your working experiences. Effective communication is crucial, emphasizing clear and concise language, while avoiding figurative speech, as your colleague may struggle with understanding these forms of communication. Developing a routine for your shared work day can provide structure and predictability, fostering a positive, productive enviroment.</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section04"
+            }
+        ]
+    },
+    "section07": {
+        "header": null,
+        "content": "<p>Being autistic with level 3 support needs can present unique challenges. These can include, but aren’t limited to, struggling with learning, holding conversations and motorics.</p> <p>Furthermore, individuals with level 3 support needs are often isolated, due to struggling with social interactions and requiring extra assistance to navigate social dynamics.</p> <p>But even so, they are people just like you and might want to exercise their autonomy and independence by holding a job. You can play a crucial role by promoting understanding, patience, and empathy.  With the right support, a colleague with level 3 support needs can contribute their talents and skills to the workplace, enriching both of your overall work experiences.</p>",
+        "image": null,
+        "choices": [
+            {
+                "text": null,
+                "jump": "section04"
+            }
+        ]
+    },
+    
+  "section08": {
+    "header": "Looks like you've got a grasp on the basics!",
+    "content": "Accomodations and support at the workplace allow each individual to be a content and productive worker. I’m sure you also need some things to help you in the workspace, be it your daily coffee, some quiet time, or some rejuvenating chats at the water-cooler. Some people simply need a bit more help than others.",
+    "image": null,
+    "choices": [
+      {
+        "text": null,
+        "jump": "section10"
+      }
+    ]
+  },
+  "section09": {
+    "header": "Discarded",
+    "content": "Discarded",
+    "image": null,
+    "choices": [
+      {
+        "text": null,
+        "jump": "section10"
+      }
+    ]
+  },
+  "section10": {
+    "header": "Practical Examples",
+    "content": "<p>I think it’s time to move towards some practical, real-life examples you might encounter in your workplace!</p> <p>Which example course do you want to look at?</p>",
+    "image": null,
+    "choices": [
+      {
+        "text": "Scenario One",
+        "jump": "section11"
+      },
+      {
+        "text": "Scenario Two",
+        "jump": "section14"
+      }
+    ]
+  },
+
+  "section11": {
+    "header": null,
+    "content": null,
+    "image": null,
+    "choices": [
+      {
+        "text": null,
+        "jump": "section12"
+      }
+    ]
+  },
+  "section12": {
+    "header": null,
+    "content": null,
+    "image": null,
+    "choices": [
+      {
+        "text": null,
+        "jump": "section16"
+      }
+    ]
+  },
+    "section13": {
+      "header": null,
+      "content": null,
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section14"
+        }
+      ]
+    },
+    "section14": {
+      "header": null,
+      "content": null,
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section15"
+        }
+      ]
+    },
+    "section15": {
+      "header": null,
+      "content": null,
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section16"
+        }
+      ]
+    },
+    "section16": {
+      "header": "Practice Questions",
+      "content": "Now, to finish the topic off, we’ll get started with a short quiz section! UNIMPLEMNTED",
+      "image": null,
+      "choices": [
+        {
+          "text": "Easy Path",
+          "jump": "section17"
+        },
+        {
+          "text": "Hard Path",
+          "jump": "section23"
+        }
+      ]
+    },
+    "section17": {
+      "header": null,
+      "content": "Q1: Which of the following is not a support level for individuals with ASD?",
+      "image": null,
+      "choices": [
+        {
+          "text": "Level 1",
+          "jump": "section18"
+        },
+        {
+          "text": "Level 2",
+          "jump": "section18"
+        },
+        {
+          "text": "Level 3",
+          "jump": "section18"
+        },
+        {
+          "text": "Level 4",
+          "jump": "section18"
+        }
+      ]
+    },
+    "section18": {
+      "header": null,
+      "content": "If your answer was correct, you gain points. Otherwise, you lose points. UNIMPLEMENTED",
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section19"
+        }
+      ]
+    },
+    "section19": {
+      "header": null,
+      "content": "Q2: True or False: Are support levels solely based on an individual's intellectual abilities?",
+      "image": null,
+      "choices": [
+        {
+          "text": "True",
+          "jump": "section20",
+          "set": {"answerQ19": false}
+        },
+        {
+          "text": "False",
+          "jump": "section20",
+          "set": {"answerQ19": true}
+        }
+      ]
+    },
+    "section20": {
+      "header": null,
+      "content": "If your answer was correct, you gain points. Otherwise, you lose points.",
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section21"
+        }
+      ]
+    },
+    "section21": {
+      "header": null,
+      "content": "Q3: Which support level would most likely describe an individual with ASD who requires a moderate amount of support across most environments?",
+      "image": null,
+      "choices": [
+        {
+          "text": "Level 1",
+          "jump": "section22",
+          "set": {"answerQ21": false}
+        },
+        {
+          "text": "Level 2",
+          "jump": "section22",
+          "set": {"answerQ21": true}
+        },
+        {
+          "text": "Level 3",
+          "jump": "section22",
+          "set": {"answerQ21": false}
+        }
+      ]
+    },
+    "section22": {
+      "header": null,
+      "content": "If your answer was correct, you gain points. Otherwise, you lose points.",
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section29"
+        }
+      ]
+    },
+    "section23": {
+      "header": null,
+      "content": "<p>Since you did pretty well so far, we’ll give you some harder questions!</p> <p>Q1: Which of the following would not be considered when determining an autistic persons’ support level?</p>",
+      "image": null,
+      "choices": [
+        {
+          "text": "Communication Skills",
+          "jump": "section24"
+        },
+        {
+          "text": "Language Skills",
+          "jump": "section24"
+        },
+        {
+          "text": "Sensory Sensitivities",
+          "jump": "section24"
+        },
+        {
+          "text": "Age of Diagnosis",
+          "jump": "section24"
+        }
+      ]
+    },
+    "section24": {
+      "header": null,
+      "content": "Answering the question about the role of age in diagnosis.",
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section25"
+        }
+      ]
+    },
+    "section25": {
+      "header": null,
+      "content": "What is the primary goal of providing support based on levels in ASD?",
+      "image": null,
+      "choices": [
+        {
+          "text": "To cure ASD completely",
+          "set": {"answerQ25": false},
+          "jump": "section26"
+        },
+        {
+          "text": "To minimize or eliminate challenging behaviors",
+          "set": {"answerQ25": false},
+          "jump": "section26"
+        },
+        {
+          "text": "To promote individual strengths and adaptive skills",
+          "set": {"answerQ25": true},
+          "jump": "section26"
+        },
+        {
+          "text": "To make individuals with ASD appear 'typical'",
+          "set": {"answerQ25": false},
+          "jump": "section26"
+        }
+      ]
+    },
+    "section26": {
+      "header": null,
+      "content": "Answering the question about the role of age in diagnosis.",
+      "image": null,
+      "choices": [
+        {
+          "text": null,
+          "jump": "section27"
+        }
+      ]
+    },
+        "section27": {
+          "header": null,
+          "content": "True or False: Support levels in ASD are static and do not change over time.",
+          "image": null,
+          "choices": [
+            {
+              "text": "True",
+              "set": {"answerQ27": false},
+              "jump": "section28"
+            },
+            {
+              "text": "False",
+              "set": {"answerQ27": true},
+              "jump": "section28"
+            }
+          ]
+        },
+        "section28": {
+          "header": null,
+          "content": "Answering the question about the role of age in diagnosis.",
+          "image": null,
+          "choices": [
+            {
+              "text": null,
+              "jump": "section29"
+            }
+          ]
+        },
+        "section29": {
+          "header": "Assessment",
+          "content": "point assesement will be added once scenarios are done",
+          "image": null,
+          "choices": [
+            {
+              "text": null,
+              "jump": "section30"
+            }
+          ]
+        },
+        "section30": {
+          "header": "Conclusion",
+          "content": "<p>Level of Support Needs is just one way to categorize the autistic experience. Another way of looking at the situation is personal strengths and weaknesses. Many autistic individuals have strong variances in different fields. They might be struggling with language production, but be very good at memorization for example.</p> <p>Still, Support Levels are a helpfull shorthand for understanding and supporting each other.</p> <p>Most importantly, don't just assume someone can or cannot do something. If someone seems to be struggling with something offer help, but don't simply make uneducated guesses about your coworkers and barge in without consent!</p> <p>That is all for this unit! Thank you for paying attention and see you next time!</p>",
+          "image": null,
+          "choices": null
+        }
+      
+  }
+  

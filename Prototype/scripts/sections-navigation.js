@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
-    var jsonData = {}; // Initialisiere jsonData
+    var jsonData = {}; // initialise json
 
-    // Funktion zum Aktualisieren des Inhalts basierend auf der Sektions-ID
+    //Loads new section to update content
     function updateContent(sectionId) {
         console.log('Lade Sektion:', sectionId);
         var data = jsonData[sectionId];
@@ -10,16 +10,22 @@ document.addEventListener("DOMContentLoaded", function() {
             return;
         }
 
-        document.getElementById("section-header").textContent = data.header || "Standardüberschrift";
+        //Only Update the section header and image if new data is in the section
+        if (data.header) {
+            document.getElementById("section-header").textContent = data.header
+        }
+
+        //placeholder until all sections get content!!
         document.getElementById("section-content").innerHTML = data.content || "<p>Standardinhalt</p>";
 
-        // Entferne vorherige Buttons
+        //Delete all previous buttons
         var continueDiv = document.getElementById("section-continue");
         continueDiv.innerHTML = '';
 
-        // Erstelle einen neuen Button für jede Wahlmöglichkeit in den JSON-Daten, wenn vorhanden
-        if(data.choices) {
-            data.choices.forEach(function(choice) {
+        //Create between 1-4 Buttons, depending on the choices
+        //if there is only one button, no custom text will be used
+        if (data.choices.length > 1) {
+            data.choices.forEach(choice => {
                 var button = document.createElement("button");
                 button.textContent = choice.text;
                 button.classList.add("section-continue-custom");
@@ -29,11 +35,20 @@ document.addEventListener("DOMContentLoaded", function() {
                 });
                 continueDiv.appendChild(button);
             });
-        }
+          } else {
+            var button = document.createElement("button");
+            button.textContent = "";
+            button.classList.add("section-continue-default");
+            button.setAttribute('data-section', data.choices[0].jump);
+            button.addEventListener('click', function() {
+                updateContent(this.getAttribute('data-section'));
+            });
+            continueDiv.appendChild(button);
+          }
     }
 
     // Lädt JSON-Daten und setzt den initialen Inhalt
-    fetch('../learning-game/Sektionen/sections.json')
+    fetch('../content/sections.json')
         .then(response => response.json())
         .then(data => {
             jsonData = data; // Speichert die geladenen JSON-Daten in `jsonData`
