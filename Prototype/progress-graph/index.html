@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Progress</title>
+    <link rel="stylesheet" href="../styles/learning-progress.css">
+    <link rel="stylesheet" href="../styles/overlay-menu.css">
+    <link rel="stylesheet" href="../styles/main-content.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script defer src="../scripts/save-and-load.js"></script>
+    <script defer src="../scripts/progresschart.js"></script>
+    <script defer src="../scripts/ui.js"></script>
+</head>
+
+<body>
+<!--Extended Overlay Menu-->
+<div id="overlay-menu" class="overlay">
+    <div class="overlay-content">
+        <div id="sidebar-extended">
+            <div id="sidebar-extended-menu">
+                <a href="javascript:void(0)" onclick="closeMenuOverlay()">Continue</a>
+                <a href="../progress-graph/index.html">My Progress</a>
+                <a href="https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach">About Us</a>
+                <a href="../index.html">Quit</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--Main Content-->
+<div id="main">
+    <!--Collapsed Overlay Menu-->
+    <div id="sidebar-collapsed">
+        <div id="sidebar-collapsed-content">
+            <span onclick='openMenuOverlay()'>...</span>
+        </div>
+    </div>
+    <div id="content">
+        <div id= "main-content">
+         <h1>My Learning Journey</h1>
+            <div class="chart-container" style="position: relative; height:40vh; width:80vw">
+                <canvas id="progressChart"></canvas>
+            </div>
+            <!--
+            <div class="path">
+
+                <div class="node completed"></div>
+                <div class="node active"></div>
+                <div class="node"></div>
+
+            </div>
+        -->
+
+    <!--This will be the placeholder for the avatar!! Do Not Touch-->
+    <div id="avatar">
+        <img src="../img/cat-png-40363.png" alt="cute placeholder cat">
+    </div>
+</div>
+    </div>
+</div>
+
+
+<!-- <script src="script.js"></script> -->
+</body>
+</html>
+
