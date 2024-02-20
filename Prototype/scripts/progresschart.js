@@ -34,6 +34,8 @@ const flowchartNodes = [
     {id: "section29", next: ["section30"]},
     {id: "section30", next: []},
 ];
+
+drawProgressChart(flowchartNodes, saveAndLoad.savePoints);
 function drawProgressChart(flowchartNodes, savePoints) {
     // Prepare the data for the chart
     let labels = flowchartNodes.map(node => node.id); // Labels are the section IDs
@@ -103,5 +105,30 @@ function drawProgressChart(flowchartNodes, savePoints) {
 // Example usage:
 // Assuming `savePoints` is your array of save points with timestamps
 // and `flowchartNodes` is the array of nodes as you provided
-drawProgressChart(flowchartNodes, saveAndLoad.savePoints);
+
+
+mermaid.initialize({ startOnLoad: true });
+
+
+function createFlowchart() {
+    let diagram = 'graph LR\n';
+    flowchartNodes.forEach(node => {
+        node.next.forEach(nextId => {
+            diagram += `    ${node.id}("${node.label}") --> ${nextId}\n`;
+        });
+    });
+
+    document.getElementById('flowchart').innerHTML = diagram;
+    mermaid.init(undefined, document.getElementById('flowchart'));
+}
+
+const flowchartNodes = [
+    { id: 1, label: 'Start', next: [2] },
+    { id: 2, label: 'Erfahrung mit Autismus?', next: [3, 4] },
+    { id: 3, label: 'Ja', next: [5] },
+    { id: 4, label: 'Nein', next: [5] },
+    { id: 5, label: 'Ende', next: [] }
+];
+
+createFlowchart();
 
