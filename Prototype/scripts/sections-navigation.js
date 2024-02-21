@@ -1,4 +1,9 @@
-document.addEventListener("DOMContentLoaded", function() {
+//RESPONSIBILITY: LOAD CREATED JSON DATA AND NAVIGATE AS USUAL
+//LOAD LATEST SAVE DATA OR START FROM THE BEGINNING
+//AT END OF SECTION (WHEN CONT BUTTON PRESSED) SAVE SECTION AS COMPLETED USING SAVE AND LOAD
+
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("Dom loaded");
     var jsonData = {}; // initialise json
 
     //Loads new section to update content
@@ -55,4 +60,5 @@ document.addEventListener("DOMContentLoaded", function() {
             updateContent("section01"); // Startet mit der ersten Sektion
         })
         .catch(error => console.error('Error loading JSON data:', error));
-});
+}, false);
+

@@ -1,0 +1,69 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.journey-container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.path {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.node {
+    width: 30px;
+    height: 30px;
+    background-color: #555;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+}
+
+.node::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: -50px;
+    width: 50px;
+    height: 2px;
+    background-color: #555;
+}
+
+.node:last-child::after {
+    display: none;
+}
+
+.node.completed {
+    background-color: #759EA6;
+}
+
+.node.active {
+    background-color: #F5A732;
+}
+
+#avatar {
+    width: 214px;
+    height: 264px;
+    position: fixed;
+    left: 720px;
+    top: 300px;
+}
+
+#avatar img {
+    object-fit: cover;
+    width: inherit;
+    height: inherit;
+}
+
+h1 {
+    margin: 50px 0;
+}
