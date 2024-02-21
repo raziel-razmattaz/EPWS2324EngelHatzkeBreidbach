@@ -1,4 +1,4 @@
-
+//RESPONSIBILITY: SAVE AND LOAD DATA IN LOCAL STORAGE
 
 /*
 firebase für fragen, localstorage für festhalten welche fragen schon gemacht

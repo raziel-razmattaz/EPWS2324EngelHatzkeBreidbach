@@ -1,75 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Different Support Levels for ASD</title>
     <link rel="stylesheet" href="../styles/overlay-menu.css">
     <link rel="stylesheet" href="../styles/main-content.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
-<body>
-<!--Extended Overlay Menu-->
-<div id="overlay-menu" class="overlay">
-    <div class="overlay-content">
+    <script defer src="../scripts/ui.js"></script>
+  </head>
+  <body>
+    <!--Extended Overlay Menu-->
+    <div id="overlay-menu" class="overlay">
+      <div class="overlay-content">
         <div id="sidebar-extended">
-            <div id="sidebar-extended-menu">
-                <a href="javascript:void(0)" onclick="closeMenuOverlay()">Continue</a>
-                <a href="../progress-graph/index.html">My Progress</a>
-                <a href="https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach">About Us</a>
-                <a href="../index.html">Quit</a>
-            </div>
+          <div id="sidebar-extended-menu">
+            <a href="javascript:void(0)" onclick="closeMenuOverlay()">Continue</a>
+            <a href="#">My Progress</a>
+            <a href="https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach">About Us</a>
+            <a href="../index.html">Quit</a>
+          </div>
         </div>
+      </div>
     </div>
-</div>
-<!--Main Content-->
-<div id="main">
-    <!--Collapsed Overlay Menu-->
-    <div id="sidebar-collapsed">
+    <!--Main Content-->
+    <div id="main">
+      <!--Collapsed Overlay Menu-->
+      <div id="sidebar-collapsed">
         <div id="sidebar-collapsed-content">
-            <span onclick='openMenuOverlay()'>...</span>
+          <span onclick='openMenuOverlay()'>...</span>
         </div>
-    </div>
-    <div id="content">
-        <div id="main-content">
-            <!--This is where the custom content goes!-->
-            <h2 id="section-header">Placeholder Text Section Header</h2>
-            <div id="section-content">
-                <p>Since you did pretty well so far, we’ll give you some harder questions!</p>
-                <p>Q1: Which of the following would not be considered when determining an autistic persons’ support
-                    level?</p>
-            </div>
-            <div id="section-continue">
-                <button class="section-continue-default" data-section="section02"></button> <!--"Empty" Button-->
-                <br/>
-                <!--use as replacement for Continue, if there's only a single choice!-->
-                <button class="section-continue-custom">Test Text</button>
-                <!--Include Text if there's a choice to be made!!-->
-                <button class="section-continue-custom">Other Text</button>
-                <button class="section-continue-custom">Third Test Text</button>
-                <button class="section-continue-custom">Final Test Text</button>
-            </div>
-            <div class="section-image">
-                <!--Replace this with another image, if needed. ADD ALT TEXT FOR ALL IMAGES!!!-->
-                <img src="../img/pexels-cowomen-2041627.jpg" alt="placeholder alt text">
-            </div>
-            <!--This will be the placeholder for the avatar!! Do Not Touch-->
-            <div id="avatar">
-                <img src="../img/cat-png-40363.png" alt="cute placeholder cat">
-            </div>
+      </div>
+      <div id="content">
+        <div id= "main-content">
+          <!--This is where the custom content goes!-->
+          <h2 id="section-header">Placeholder Text Section Header</h2>
+          <div id="section-content">
+            <p>Since you did pretty well so far, we’ll give you some harder questions!</p>
+            <p>Q1: Which of the following would not be considered when determining an autistic persons’ support level?</p>
+          </div>
+          <div id="section-continue">
+            <button class="section-continue-default" data-section="section02"></button> <!--"Empty" Button-->
+            <br/>
+            <!--use as replacement for Continue, if there's only a single choice!-->
+            <button class="section-continue-custom">Test Text</button> <!--Include Text if there's a choice to be made!!-->
+            <button class="section-continue-custom">Other Text</button>
+            <button class="section-continue-custom">Third Test Text</button>
+            <button class="section-continue-custom">Final Test Text</button>
+          </div>
+          <div class="section-image">
+            <!--Replace this with another image, if needed. ADD ALT TEXT FOR ALL IMAGES!!!-->
+            <img src="../img/pexels-cowomen-2041627.jpg" alt="placeholder alt text">
+          </div>
+          <!--This will be the placeholder for the avatar!! Do Not Touch-->
+          <div id="avatar">
+            <img src="../img/cat-png-40363.png" alt="cute placeholder cat">
+          </div>
         </div>
+      </div>
     </div>
-</div>
-<!-- <script type="module" src="../scripts/ui.js"></script> -->
-<script>
-    function openMenuOverlay() {
-        document.getElementById("overlay-menu").style.width = "100%";
-    }
-
-    function closeMenuOverlay() {
-        document.getElementById("overlay-menu").style.width = "0%";
-    }
-</script>
-<script type="module" defer src="../scripts/sections-navigation.js"></script>
-</body>
+    <script defer src="../scripts/sections-navigation.js"></script>
+    <script type="module" defer src="../scripts/firebase-json-conversion.js"></script>
+  </body>
 </html>
