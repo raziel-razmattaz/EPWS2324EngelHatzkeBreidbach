@@ -9,11 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function initSection() {
         //LATER: call loadSaveData() and work with that for the first section
-        var continueDiv = document.getElementById("section-continue");
-        continueDiv.innerHTML = '';
         updateHeader("section01");
         updateContent("section01");
-        updateChoices("section10", continueDiv);
+        updateChoices("section10");
     }
     
     // Lädt JSON-Daten und setzt den initialen Inhalt
@@ -70,7 +68,7 @@ async function updateChoices(sectionId) {
                 button.classList.add("section-continue-custom");
                 button.setAttribute('data-section', choice[0]);
                 button.addEventListener('click', function() {
-                    updateContent(this.getAttribute('data-section'));
+                    updateSection(button.getAttribute('data-section'));
                 });
                 continueDiv.appendChild(button);
             });
