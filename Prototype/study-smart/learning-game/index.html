@@ -10,6 +10,7 @@
     <script type="module" defer src="../firebase/firebase-setup.js"></script>
     <script type="module" defer src="../scripts/firebase-test.js"></script>
     <script type="module" defer src="../scripts/sections-navigation.js"></script>
+    <script type="module" defer src="../scripts/save-load.js"></script>
     <script defer src="../scripts/ui.js"></script>
   </head>
   <body>
@@ -20,6 +21,7 @@
           <div id="sidebar-extended-menu">
             <a href="javascript:void(0)" onclick="closeMenuOverlay()">Continue</a>
             <a href="#">My Progress</a>
+            <a href="javascript:void(0)" onclick="import('../scripts/sections-navigation.js').then(module => module.resetSections())">Reset Progress</a>
             <a href="https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach">About Us</a>
             <a href="../index.html">Quit</a>
           </div>
