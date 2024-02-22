@@ -1,5 +1,5 @@
 import { getContent, getHeader, getChoices } from "../scripts/firebase-test.js";
-import { checkLocalStorage, addSavePoint, loadSavePoints, getMostRecentSavePoint } from "../scripts/save-load.js";
+import { checkLocalStorage, addSavePoint, loadSavePoints, getMostRecentSavePoint, resetSavePoints } from "../scripts/save-load.js";
 
 document.addEventListener('DOMContentLoaded', function() {
     var jsonData = {}; // initialise json
@@ -9,6 +9,9 @@ document.addEventListener('DOMContentLoaded', function() {
         checkLocalStorage();
         loadSavePoints();
         var startPoint = getMostRecentSavePoint();
+        if (!startPoint) {
+            startPoint = "section01";
+        }
         updateHeader(startPoint);
         updateContent(startPoint);
         updateChoices(startPoint);
@@ -85,4 +88,11 @@ async function updateChoices(sectionId) {
     } catch (error) {
         console.error("Error fetching choices:", error);
     }
+}
+
+export function resetSections() {
+    resetSavePoints();
+    updateHeader("section01");
+    updateContent("section01");
+    updateChoices("section01");
 }

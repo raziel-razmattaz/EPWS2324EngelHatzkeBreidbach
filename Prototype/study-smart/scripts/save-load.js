@@ -57,3 +57,8 @@ export function getMostRecentSavePoint() {
     savePoints.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
     return savePoints.length > 0 ? savePoints[0].id : null;
 }
+
+export function resetSavePoints() {
+    localStorage.removeItem('savePoints');
+    console.log("beep boop no more save points");
+}
