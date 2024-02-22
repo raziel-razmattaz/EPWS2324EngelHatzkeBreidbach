@@ -12,10 +12,8 @@ Inwiefern das System tatsächlich wie erwünscht akzeptierendes Verhalten und Ve
 
 ### Prozessreflektion
 
-wie war der prozess? was war verbesserungswürdig
-
-
-Trotz einigen Rückschlägen wurden diese gut gemeistert und als Itterationen schnell, effizient und aus unserer Perspektive sehr zufriedenstellend umgesetzt. Der Wert einer guten Kommunikation untereinander und mit den Mentoren sowie eine sehr strukturierte Herangehensweise an Problematiken und Aufgabenstellungen hat sich gerade in solchen SItuationen, aber auch grundsätzlich sehr bewährt.
+Insgesamt war der Prozess sehr angenehm. Trotz einiger Rückschläge wurden diese gut gemeistert und als Itterationen schnell, effizient und aus unserer Perspektive sehr zufriedenstellend umgesetzt. Der Wert einer guten Kommunikation untereinander und mit den Mentoren sowie eine sehr strukturierte Herangehensweise an Problematiken und Aufgabenstellungen hat sich gerade in solchen Situationen, aber auch grundsätzlich sehr bewährt.
 
 ### Wünsche und Schwierigkeiten
+
 Eine frühzeitigere und klarere Kommunikation der Anforderungen an das System, speziell die geforderte Datenbankanabindung, wäre wünschenswert gewesen, da das entwickelte System explizit auf diese zugunsten des Lokalstorage sowie einer JSON-Datei verzichtet hatte. Neben der daraus entstehenden Notwendigkeit eines recht kurzfristigen größeren Architektur- und Codeumbaus, fühlt sich das entstandene Endprodukt so unnötig komplex und undurchdacht an.
