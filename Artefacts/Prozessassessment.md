@@ -12,7 +12,8 @@ Inwiefern das System tatsächlich wie erwünscht akzeptierendes Verhalten und Ve
 
 ### Prozessreflektion
 
-Insgesamt war der Prozess sehr angenehm. Trotz einiger Rückschläge wurden diese gut gemeistert und als Itterationen schnell, effizient und aus unserer Perspektive sehr zufriedenstellend umgesetzt. Der Wert einer guten Kommunikation untereinander und mit den Mentoren sowie eine sehr strukturierte Herangehensweise an Problematiken und Aufgabenstellungen hat sich gerade in solchen Situationen, aber auch grundsätzlich sehr bewährt.
+Es war zu beobachten, dass die Erstellung von Modellen und Vorraussetzungen für das Projekt uns deutlich einfacher gefallen ist, als die tatsächliche programatische Umsetzung. Es scheint, als wäre die praktische Umsetzung von Projekten etwas, womit wir alle im Studium noch nicht zu sehr konfrontiert wurden und gleichzeitig einige Tücken birgt. Dies hat gerade in den letzten Tagen, vor allem mit den spontanen Änderungen, zu einem erhöhten Arbeitsaufwand unterZeitdruck geführt.
+Insgesamt war der Prozess jedoch sehr angenehm. Trotz einiger Rückschläge auch in den anfänglichen Phasen des Projektes, wurden diese gut gemeistert und als Itterationen schnell, effizient und aus unserer Perspektive sehr zufriedenstellend umgesetzt. Der Wert einer guten Kommunikation untereinander und mit den Mentoren sowie eine sehr strukturierte Herangehensweise an Problematiken und Aufgabenstellungen hat sich gerade in solchen Situationen, aber auch grundsätzlich sehr bewährt und stellt unserer Meinung den Hauptgrund dar, weshalb das Projekt so zufriedenstellend verlaufen ist. 
 
 ### Wünsche und Schwierigkeiten
 
