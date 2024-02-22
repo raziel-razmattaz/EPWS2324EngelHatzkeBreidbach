@@ -26,7 +26,7 @@ Das Domänenmodell befasst sich besonders mit den direkten Verhältnissen zwisch
 
 <img src="Artefacts/IteriertesDomänenmodell_nachAudit2.jpeg" alt="Domänenmodell für Autismus-Diskriminierung am Arbeitsplatz" width="800px"/>
 
-Aufgrund ihrer Spektrumsstörung haben Menschen mit ASD neben möglichen Schwächen oder Problemen auch Stärken, welche ihnen und ihren Kolleg:innen und Arbeitgebern im zugute kommen können, wie beispielweise strukurierte Arbeitsweisen. Für ein besseres Verständnis und insgesamt positiveres Miteinander ist es also ratsam nicht nur die Schwierigkeiten von Menschen mit ASD und Möglichkeiten mit diesen umzugehen zu beleuchten, sondern auch die möglichen Stärken hervorzuheben. Das Lösungssystem strebt eine allgemeine Beleuchtung der Thematik ASD an, sowie eine konkrete Fokusierung auf Möglichkeiten und Notwendigkeiten von Menschen mit ASD im Arbeitsleben. Hierzu gehören auch rechtliche Pflichten aber auch Forderungen von Seiten des Arbeitgebers. 
+Aufgrund ihrer Spektrumsstörung haben Menschen mit ASD neben möglichen Schwächen oder Problemen auch Stärken, welche ihnen und ihren Kolleg:innen und Arbeitgebern im zugute kommen können, wie beispielweise strukurierte Arbeitsweisen. Für ein besseres Verständnis und insgesamt positiveres Miteinander ist es also ratsam nicht nur die Schwierigkeiten von Menschen mit ASD und Möglichkeiten mit diesen umzugehen zu beleuchten, sondern auch die möglichen Stärken hervorzuheben. Das Lösungssystem strebt eine allgemeine Beleuchtung der Thematik ASD an, sowie eine konkrete Fokusierung auf Möglichkeiten und Notwendigkeiten von Menschen mit ASD im Arbeitsleben.
 
 Die ursprüngliche allgemeine Problemraumanalyse ist hier zu finden:
 
