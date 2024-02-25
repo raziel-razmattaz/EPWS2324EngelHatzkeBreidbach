@@ -1,83 +1,44 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: #1a1a1a;
     color: white;
 }
 
-.journey-container {
-    width: 80%;
-    margin: auto;
-    text-align: center;
+#content {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	width: 93%;
+    overflow-y: hidden;
 }
 
-.path {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 20px;
+#main-content {
+	display: inline-block;
+	vertical-align: top;
+	height: 100%;
+	padding: 64px 32px;
 }
 
-.node {
-    width: 30px;
-    height: 30px;
-    background-color: #555;
-    border-radius: 50%;
-    display: inline-block;
-    position: relative;
-}
-
-.node::after {
-    content: '';
-    position: absolute;
-    top: 50%;
-    right: -50px;
-    width: 50px;
-    height: 2px;
-    background-color: #555;
-}
-
-.node:last-child::after {
-    display: none;
-}
-
-.node.completed {
-    background-color: #759EA6;
-}
-
-.node.active {
-    background-color: #F5A732;
+#main-content h2 {
+   font-weight: bold;
+   font-size: 20px;
+   padding-bottom: 200px;
 }
 
 .chart-container {
     position: relative;
-    height: 60%; /* Höhe des Containers */
-    width: 90%; /* Breite des Containers */
-    overflow: none; /* Automatische Scrollbars, wenn nötig */
+    top: 20%;
+    height: 100%;
 }
 
-#avatar {
-    width: 214px;
-    height: 264px;
-    position: fixed;
-    left: 720px;
-    top: 300px;
-}
 
 #flowchart {
-    overflow: auto; /* Erlaubt Scrollbars, wenn der Inhalt überläuft */
-    max-width: 95%; /* Maximale Höhe, bei der Scrollbars angezeigt werden */
-}
-
-#avatar img {
-    object-fit: cover;
-    width: inherit;
-    height: inherit;
+    height: 60%;
 }
 
 h1 {
-    margin: 50px 0;
+    position: fixed;
+    margin: 25px 0;
 }
 
 

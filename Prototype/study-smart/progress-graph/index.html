@@ -6,20 +6,13 @@
     <title>Learning Progress</title>
     <link rel="stylesheet" href="../styles/learning-progress.css">
     <link rel="stylesheet" href="../styles/overlay-menu.css">
-    <link rel="stylesheet" href="../styles/main-content.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script type="module" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script type="module" defer src="../scripts/save-load.js"></script>
-
     <script type="module" defer src="../scripts/ui.js"></script>
     <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script type="module" defer src="../scripts/progressDisplay.js"></script> 
-
-   
-
-
 </head>
-
 <body>
 <!--Extended Overlay Menu-->
 <div id="overlay-menu" class="overlay">
@@ -48,24 +41,12 @@
     <div id="content">
         <div id= "main-content">
          <h1>My Learning Journey</h1>
-            <div class="chart-container" style="position: relative; height:40vh; width:80vw">
-                <canvas id="progressChart"></canvas>
+            <div class="chart-container" style="position: relative; height:80%; width: 2000px;">
                 <div id="flowchart"></div>
             </div>
-            
-        
-        
-
-
-        
 </div>
     </div>
 </div>
-
-
-
-
-
 <script>
     window.openMenuOverlay = function() {
         document.getElementById("overlay-menu").style.width = "100%";
@@ -75,6 +56,5 @@
         document.getElementById("overlay-menu").style.width = "0%";
     }
 </script>
-
 </body>
 </html>
