@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         updateContent(startPoint);
         updateChoices(startPoint);
     }
-    
+
     // Lädt JSON-Daten und setzt den initialen Inhalt (NOW DEPRECATED, ONLY HERE FOR TESTING DURING DEV!!!)
     fetch('../content/sections.json')
         .then(response => response.json())
@@ -75,7 +75,7 @@ async function updateChoices(sectionId) {
                 });
                 continueDiv.appendChild(button);
             });
-          } else {
+        } else {
             var button = document.createElement("button");
             button.textContent = "";
             button.classList.add("section-continue-default");
@@ -84,7 +84,7 @@ async function updateChoices(sectionId) {
                 updateSection(button.getAttribute('data-section'));
             });
             continueDiv.appendChild(button);
-          }
+        }
     } catch (error) {
         console.error("Error fetching choices:", error);
     }
