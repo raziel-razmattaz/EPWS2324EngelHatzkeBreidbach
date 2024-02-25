@@ -5,7 +5,7 @@ import { getMostRecentSavePoint, loadSavePoints } from "./save-load.js";
 
 const flowchartNodes = [];
 
-const mermaidInit = {'theme':'base', 'themeVariables': {'lineColor': '#FFF'}};
+const mermaidInit = {'theme':'base', 'themeVariables': {'lineColor': '#759EA6'}};
 
 async function fetchSectionsForMermaid(sectionId, visitedNodes = new Set()) {
     try {
