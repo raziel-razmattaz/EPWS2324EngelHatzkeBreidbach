@@ -9,9 +9,15 @@
     <link rel="stylesheet" href="../styles/main-content.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script type="module" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script type="module" defer src="../scripts/save-and-load.js"></script>
-    <script type="module" defer src="../scripts/progresschart.js"></script>
+    <script type="module" defer src="../scripts/save-load.js"></script>
+
     <script type="module" defer src="../scripts/ui.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script type="module" defer src="../scripts/progressDisplay.js"></script> 
+
+   
+
+
 </head>
 
 <body>
@@ -20,8 +26,11 @@
     <div class="overlay-content">
         <div id="sidebar-extended">
             <div id="sidebar-extended-menu">
-                <a href="javascript:void(0)" onclick="closeMenuOverlay()">Continue</a>
-                <a href="../progress-graph/index.html">My Progress</a>
+                <a href="../learning-game/index.html">Back to Game</a>
+                <a href="../progress-graph/index.html">My Progress</a><!--muss zu progresschart führen-->
+                <a href="javascript:void(0)"
+                   onclick="import('../scripts/sections-navigation.js').then(module => module.resetSections())">Reset
+                    Progress</a>
                 <a href="https://github.com/raziel-razmattaz/EPWS2324EngelHatzkeBreidbach">About Us</a>
                 <a href="../index.html">Quit</a>
             </div>
@@ -41,27 +50,31 @@
          <h1>My Learning Journey</h1>
             <div class="chart-container" style="position: relative; height:40vh; width:80vw">
                 <canvas id="progressChart"></canvas>
+                <div id="flowchart"></div>
             </div>
-            <!--
-            <div class="path">
+            
+        
+        
 
-                <div class="node completed"></div>
-                <div class="node active"></div>
-                <div class="node"></div>
 
-            </div>
-        -->
-
-    <!--This will be the placeholder for the avatar!! Do Not Touch-->
-    <div id="avatar">
-        <img src="../img/cat-png-40363.png" alt="cute placeholder cat">
-    </div>
+        
 </div>
     </div>
 </div>
 
 
-<!-- <script src="script.js"></script> -->
+
+
+
+<script>
+    window.openMenuOverlay = function() {
+        document.getElementById("overlay-menu").style.width = "100%";
+    }
+
+    window.closeMenuOverlay = function() {
+        document.getElementById("overlay-menu").style.width = "0%";
+    }
+</script>
+
 </body>
 </html>
-

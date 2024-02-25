@@ -50,12 +50,24 @@ body, html {
     background-color: #F5A732;
 }
 
+.chart-container {
+    position: relative;
+    height: 60%; /* Höhe des Containers */
+    width: 90%; /* Breite des Containers */
+    overflow: none; /* Automatische Scrollbars, wenn nötig */
+}
+
 #avatar {
     width: 214px;
     height: 264px;
     position: fixed;
     left: 720px;
     top: 300px;
+}
+
+#flowchart {
+    overflow: auto; /* Erlaubt Scrollbars, wenn der Inhalt überläuft */
+    max-width: 95%; /* Maximale Höhe, bei der Scrollbars angezeigt werden */
 }
 
 #avatar img {
@@ -67,3 +79,5 @@ body, html {
 h1 {
     margin: 50px 0;
 }
+
+
